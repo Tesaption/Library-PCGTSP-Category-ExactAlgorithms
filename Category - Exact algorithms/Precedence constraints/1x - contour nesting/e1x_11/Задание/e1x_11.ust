@@ -1,0 +1,29 @@
+[VERSION]
+  Number=1.00
+[SHEET]
+  File=C:\GEODET\S\LIST1000X800
+  Count=1
+[DETAIL]
+  File=C:\GEODET\ 157.601.08.205(S2_—“3—œ)-2ÿ“
+  Count=4
+[DETAIL]
+  File=C:\GEODET\ 157.601.08.555(S4_—“3—œ—)-2ÿ“
+  Count=4
+[DETAIL]
+  File=C:\GEODET\NC20-11
+  Count=4
+[DETAIL]
+  File=C:\GEODET\ 146.650.01.487(S3_—“3)-3 ÿ“.
+  Count=2
+[DETAIL]
+  File=C:\GEODET\PRYAM650X100
+  Count=2
+[MATERIAL]
+  Mark=
+  UdVes=7800
+  Thickness=20
+[DISTANCE]
+  DetToDet=15
+  DetToSheet=15
+[NC]
+  Name=

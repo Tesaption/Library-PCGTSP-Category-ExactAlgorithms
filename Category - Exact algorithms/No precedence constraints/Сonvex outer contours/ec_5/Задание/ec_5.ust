@@ -1,0 +1,26 @@
+[VERSION]
+  Number=1.00
+[SHEET]
+  File=C:\GEODET\S\LIST700X300
+  Count=1
+[DETAIL]
+  File=C:\GEODET\EVR-3
+  Count=2
+[DETAIL]
+  File=C:\GEODET\F134-16
+  Count=5
+[DETAIL]
+  File=C:\GEODET\FS4-29
+  Count=10
+[DETAIL]
+  File=C:\GEODET\PRYAM145X80
+  Count=4
+[MATERIAL]
+  Mark=
+  UdVes=7800
+  Thickness=20
+[DISTANCE]
+  DetToDet=15
+  DetToSheet=15
+[NC]
+  Name=

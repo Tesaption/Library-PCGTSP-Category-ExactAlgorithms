@@ -1,0 +1,38 @@
+[VERSION]
+  Number=1.00
+[SHEET]
+  File=C:\GEODET\S\LIST800X500
+  Count=1
+[DETAIL]
+  File=C:\GEODET\LARS1
+  Count=4
+[DETAIL]
+  File=C:\GEODET\14ZAK7
+  Count=4
+[DETAIL]
+  File=C:\GEODET\GOS-5
+  Count=6
+[DETAIL]
+  File=C:\GEODET\820X40
+  Count=10
+[DETAIL]
+  File=C:\GEODET\BS6-13
+  Count=6
+[DETAIL]
+  File=C:\GEODET\BS6-10
+  Count=1
+[DETAIL]
+  File=C:\GEODET\2LIN8M
+  Count=4
+[DETAIL]
+  File=C:\GEODET\16ZAK16
+  Count=8
+[MATERIAL]
+  Mark=
+  UdVes=7800
+  Thickness=20
+[DISTANCE]
+  DetToDet=15
+  DetToSheet=15
+[NC]
+  Name=

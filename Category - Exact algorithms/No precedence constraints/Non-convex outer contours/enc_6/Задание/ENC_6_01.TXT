@@ -1,0 +1,111 @@
+****************************************************************************
+*                                                                          *
+*                          OPERATORS SETUP SHEET                           *
+*                        Program created in SIRIUS!                        *
+*                                                                          *
+****************************************************************************
+* MACHINE:    L3030     CONTROL:      bosch     MAX. LASER POWER 2600 WATT *
+----------------------------------------------------------------------------
+* COMPANY:         RCL               PROGRAMMER:                           *
+----------------------------------------------------------------------------
+* JOB NAME:                          NUMBER OF PROGRAM RUNS:           1   *
+----------------------------------------------------------------------------
+* PROGRAM NUMBER:  P4500             DATE:  25.07.2006                     *
+----------------------------------------------------------------------------
+* MATERIAL:        CT3         BLANK: 3000 X 1500 X 4.00 MM                *
+----------------------------------------------------------------------------
+* HIGH PRESSURE CUTTING: NO          FOCAL LENGTH LENS:    7.5    INCH     *
+----------------------------------------------------------------------------
+* LASER TABLE:     1866                                                    *
+----------------------------------------------------------------------------
+* TECHNOLOGY TABLES:                                                       *
+*    NUMBER         PIERCING MODE     CUTTING MODE      TYPE OF CONTOUR    *
+----------------------------------------------------------------------------
+*    1866000        FULL              NORMAL            LARGE              *
+----------------------------------------------------------------------------
+* MEMORY REQUIREMENT  5395       CHARACTERS                                *
+----------------------------------------------------------------------------
+* TOTAL TIME:         11.98      MINUTES                                   *
+----------------------------------------------------------------------------
+* PART No.    DRAWING NUMBER           DRAWING NAME              NUMBER    *
+----------------------------------------------------------------------------
+*   1      |  ---                   |  DD502.dbs            |    1         *
+*   2      |  ---                   |  DD503.dbs            |    1         *
+*   3      |  ---                   |  DD504.dbs            |    1         *
+*   4      |  ---                   |  DD505.dbs            |    1         *
+*   5      |  ---                   |  DD506.dbs            |    1         *
+*   6      |  ---                   |  DD507.dbs            |    1         *
+*   7      |  ---                   |  DD508.dbs            |    1         *
+*   8      |  ---                   |  DD509.dbs            |    1         *
+*   9      |  ---                   |  DD510.dbs            |    1         *
+*   10     |  ---                   |  DD511.dbs            |    1         *
+****************************************************************************
+*                                                                          *
+*              S I N G L E   P A R T   I N F O R M A T I O N               *
+*                                                                          *
+****************************************************************************
+*                                                                          *
+* SHEET NAME:                DD500_01.DBS                                  *
+*                                                                          *
+*--------------------------------------------------------------------------*
+* PART NUMBER:               1                                             *
+* GEOMETRY FILE NAME:        DD502.dbs                                     *
+* MACHINING TIME:            1.05   MINUTES                                *
+* CUTTING LENGTH:            2397   MM                                     *
+* NUMBER OF PIERCING POINTS  1                                             *
+*--------------------------------------------------------------------------*
+* PART NUMBER:               2                                             *
+* GEOMETRY FILE NAME:        DD503.dbs                                     *
+* MACHINING TIME:            1.22   MINUTES                                *
+* CUTTING LENGTH:            2796   MM                                     *
+* NUMBER OF PIERCING POINTS  1                                             *
+*--------------------------------------------------------------------------*
+* PART NUMBER:               3                                             *
+* GEOMETRY FILE NAME:        DD504.dbs                                     *
+* MACHINING TIME:            1.42   MINUTES                                *
+* CUTTING LENGTH:            3236   MM                                     *
+* NUMBER OF PIERCING POINTS  1                                             *
+*--------------------------------------------------------------------------*
+* PART NUMBER:               4                                             *
+* GEOMETRY FILE NAME:        DD505.dbs                                     *
+* MACHINING TIME:            1.22   MINUTES                                *
+* CUTTING LENGTH:            2796   MM                                     *
+* NUMBER OF PIERCING POINTS  1                                             *
+*--------------------------------------------------------------------------*
+* PART NUMBER:               5                                             *
+* GEOMETRY FILE NAME:        DD506.dbs                                     *
+* MACHINING TIME:            1.05   MINUTES                                *
+* CUTTING LENGTH:            2397   MM                                     *
+* NUMBER OF PIERCING POINTS  1                                             *
+*--------------------------------------------------------------------------*
+* PART NUMBER:               6                                             *
+* GEOMETRY FILE NAME:        DD507.dbs                                     *
+* MACHINING TIME:            1.05   MINUTES                                *
+* CUTTING LENGTH:            2397   MM                                     *
+* NUMBER OF PIERCING POINTS  1                                             *
+*--------------------------------------------------------------------------*
+* PART NUMBER:               7                                             *
+* GEOMETRY FILE NAME:        DD508.dbs                                     *
+* MACHINING TIME:            1.22   MINUTES                                *
+* CUTTING LENGTH:            2796   MM                                     *
+* NUMBER OF PIERCING POINTS  1                                             *
+*--------------------------------------------------------------------------*
+* PART NUMBER:               8                                             *
+* GEOMETRY FILE NAME:        DD509.dbs                                     *
+* MACHINING TIME:            1.42   MINUTES                                *
+* CUTTING LENGTH:            3236   MM                                     *
+* NUMBER OF PIERCING POINTS  1                                             *
+*--------------------------------------------------------------------------*
+* PART NUMBER:               9                                             *
+* GEOMETRY FILE NAME:        DD510.dbs                                     *
+* MACHINING TIME:            1.22   MINUTES                                *
+* CUTTING LENGTH:            2796   MM                                     *
+* NUMBER OF PIERCING POINTS  1                                             *
+*--------------------------------------------------------------------------*
+* PART NUMBER:               10                                            *
+* GEOMETRY FILE NAME:        DD511.dbs                                     *
+* MACHINING TIME:            1.05   MINUTES                                *
+* CUTTING LENGTH:            2397   MM                                     *
+* NUMBER OF PIERCING POINTS  1                                             *
+*--------------------------------------------------------------------------*
+****************************************************************************

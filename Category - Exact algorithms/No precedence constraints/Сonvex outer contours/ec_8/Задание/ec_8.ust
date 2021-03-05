@@ -1,0 +1,26 @@
+[VERSION]
+  Number=1.00
+[SHEET]
+  File=C:\GEODET\S\LIST500X400
+  Count=1
+[DETAIL]
+  File=C:\GEODET\RAE-K-111-02-01-01-111(S5_09У2б) - 4 ив
+  Count=4
+[DETAIL]
+  File=C:\GEODET\RAE-K-111-05-02-00-002(S3_бв3) - 4 ив
+  Count=4
+[DETAIL]
+  File=C:\GEODET\RAE-K-111-05-02-00-056(S3_бв3) - 2 ив
+  Count=2
+[DETAIL]
+  File=C:\GEODET\RAE-K-111-02-06-01-004(S5_09У2) - 2 ив
+  Count=3
+[MATERIAL]
+  Mark=
+  UdVes=7800
+  Thickness=20
+[DISTANCE]
+  DetToDet=15
+  DetToSheet=15
+[NC]
+  Name=

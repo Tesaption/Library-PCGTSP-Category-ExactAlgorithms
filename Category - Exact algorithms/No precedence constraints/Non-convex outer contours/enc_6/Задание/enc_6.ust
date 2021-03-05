@@ -1,0 +1,59 @@
+[VERSION]
+  Number=1.00
+[SHEET]
+  File=C:\GEODET\S\L30X15
+  Count=1
+[DETAIL]
+  File=C:\GEODET\dd500
+  Count=1
+[DETAIL]
+  File=C:\GEODET\dd501
+  Count=1
+[DETAIL]
+  File=C:\GEODET\dd502
+  Count=1
+[DETAIL]
+  File=C:\GEODET\dd503
+  Count=1
+[DETAIL]
+  File=C:\GEODET\dd504
+  Count=1
+[DETAIL]
+  File=C:\GEODET\dd505
+  Count=1
+[DETAIL]
+  File=C:\GEODET\dd506
+  Count=1
+[DETAIL]
+  File=C:\GEODET\dd507
+  Count=1
+[DETAIL]
+  File=C:\GEODET\dd508
+  Count=1
+[DETAIL]
+  File=C:\GEODET\dd509
+  Count=1
+[DETAIL]
+  File=C:\GEODET\dd510
+  Count=1
+[DETAIL]
+  File=C:\GEODET\dd511
+  Count=1
+[DETAIL]
+  File=C:\GEODET\dd512
+  Count=1
+[DETAIL]
+  File=C:\GEODET\dd513
+  Count=1
+[DETAIL]
+  File=C:\GEODET\dd514
+  Count=1
+[MATERIAL]
+  Mark=
+  UdVes=7800
+  Thickness=5
+[DISTANCE]
+  DetToDet=5
+  DetToSheet=5
+[NC]
+  Name=

@@ -1,0 +1,26 @@
+[VERSION]
+  Number=1.00
+[SHEET]
+  File=C:\GEODET\S\LIST1100X800
+  Count=1
+[DETAIL]
+  File=C:\GEODET\ROSM120
+  Count=2
+[DETAIL]
+  File=C:\GEODET\RSU10-2
+  Count=6
+[DETAIL]
+  File=C:\GEODET\KV22
+  Count=2
+[DETAIL]
+  File=C:\GEODET\Pryam650x40
+  Count=1
+[MATERIAL]
+  Mark=
+  UdVes=7800
+  Thickness=20
+[DISTANCE]
+  DetToDet=15
+  DetToSheet=15
+[NC]
+  Name=

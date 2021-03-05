@@ -1,0 +1,29 @@
+[VERSION]
+  Number=1.00
+[SHEET]
+  File=C:\GEODET\S\LIST700X500
+  Count=1
+[DETAIL]
+  File=C:\GEODET\1050X300
+  Count=5
+[DETAIL]
+  File=C:\GEODET\1080X400
+  Count=4
+[DETAIL]
+  File=C:\GEODET\16ZAK17
+  Count=6
+[DETAIL]
+  File=C:\GEODET\1060X210
+  Count=6
+[DETAIL]
+  File=C:\GEODET\MEU10-6
+  Count=6
+[MATERIAL]
+  Mark=
+  UdVes=7800
+  Thickness=20
+[DISTANCE]
+  DetToDet=15
+  DetToSheet=15
+[NC]
+  Name=

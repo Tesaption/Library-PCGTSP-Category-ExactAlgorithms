@@ -1,0 +1,23 @@
+[VERSION]
+  Number=1.00
+[SHEET]
+  File=C:\GEODET\S\LIST700X500
+  Count=1
+[DETAIL]
+  File=C:\GEODET\KR160IN45
+  Count=2
+[DETAIL]
+  File=C:\GEODET\PRYAM326X252
+  Count=2
+[DETAIL]
+  File=C:\GEODET\PRYAM215X200
+  Count=3
+[MATERIAL]
+  Mark=
+  UdVes=7800
+  Thickness=20
+[DISTANCE]
+  DetToDet=15
+  DetToSheet=15
+[NC]
+  Name=

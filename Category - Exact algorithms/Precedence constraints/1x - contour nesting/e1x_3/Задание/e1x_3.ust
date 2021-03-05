@@ -1,0 +1,32 @@
+[VERSION]
+  Number=1.00
+[SHEET]
+  File=C:\GEODET\S\LIST800X600
+  Count=1
+[DETAIL]
+  File=C:\GEODET\PRYAM350X160
+  Count=5
+[DETAIL]
+  File=C:\GEODET\POD100
+  Count=2
+[DETAIL]
+  File=C:\GEODET\25ZOL-5
+  Count=2
+[DETAIL]
+  File=C:\GEODET\PRYAM125X160
+  Count=4
+[DETAIL]
+  File=C:\GEODET\2LIN8M
+  Count=5
+[DETAIL]
+  File=C:\GEODET\PRYAM85X85
+  Count=6
+[MATERIAL]
+  Mark=
+  UdVes=7800
+  Thickness=20
+[DISTANCE]
+  DetToDet=15
+  DetToSheet=15
+[NC]
+  Name=

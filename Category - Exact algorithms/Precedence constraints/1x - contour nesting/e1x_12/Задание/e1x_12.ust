@@ -1,0 +1,23 @@
+[VERSION]
+  Number=1.00
+[SHEET]
+  File=C:\GEODET\S\LIST1800X800
+  Count=1
+[DETAIL]
+  File=C:\GEODET\ 158.620.02.631(S4_—“3—œ.–»‘.) - 1 ÿ“
+  Count=1
+[DETAIL]
+  File=C:\GEODET\ 158.620.02.631-01(S4_—“3—œ.–»‘.) - 1 ÿ“
+  Count=1
+[DETAIL]
+  File=C:\GEODET\ 158.620.03.231 (09√2—-13_S10) -2ÿ“
+  Count=6
+[MATERIAL]
+  Mark=
+  UdVes=7800
+  Thickness=20
+[DISTANCE]
+  DetToDet=15
+  DetToSheet=15
+[NC]
+  Name=

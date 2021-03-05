@@ -1,0 +1,35 @@
+[VERSION]
+  Number=1.00
+[SHEET]
+  File=C:\GEODET\S\LIST1000X600
+  Count=1
+[DETAIL]
+  File=C:\GEODET\STUP405
+  Count=6
+[DETAIL]
+  File=C:\GEODET\STRM7
+  Count=2
+[DETAIL]
+  File=C:\GEODET\P200X200
+  Count=2
+[DETAIL]
+  File=C:\GEODET\PRYAM590X140
+  Count=3
+[DETAIL]
+  File=C:\GEODET\STRM5
+  Count=4
+[DETAIL]
+  File=C:\GEODET\STRM24
+  Count=4
+[DETAIL]
+  File=C:\GEODET\STRM13
+  Count=4
+[MATERIAL]
+  Mark=
+  UdVes=7800
+  Thickness=20
+[DISTANCE]
+  DetToDet=15
+  DetToSheet=15
+[NC]
+  Name=

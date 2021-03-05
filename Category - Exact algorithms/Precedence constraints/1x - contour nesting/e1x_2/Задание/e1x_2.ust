@@ -1,0 +1,32 @@
+[VERSION]
+  Number=1.00
+[SHEET]
+  File=C:\GEODET\S\LNER8
+  Count=1
+[DETAIL]
+  File=C:\GEODET\12-80012
+  Count=2
+[DETAIL]
+  File=C:\GEODET\KRUGKRE
+  Count=2
+[DETAIL]
+  File=C:\GEODET\16-80014
+  Count=2
+[DETAIL]
+  File=C:\GEODET\KP2-8
+  Count=2
+[DETAIL]
+  File=C:\GEODET\16ZAK10
+  Count=2
+[DETAIL]
+  File=C:\GEODET\NC20-14
+  Count=1
+[MATERIAL]
+  Mark=
+  UdVes=7800
+  Thickness=20
+[DISTANCE]
+  DetToDet=15
+  DetToSheet=15
+[NC]
+  Name=
