@@ -1,0 +1,3948 @@
+{
+  "TaskData" : {
+    "StartX" : 0.0, 
+    "StartY" : 0.0, 
+    "TerminalMotion" : true, 
+    "FinishX" : 0.0, 
+    "FinishY" : 0.0, 
+    "SheetMinX" : 0.0, 
+    "SheetMaxX" : 1000.0, 
+    "SheetMinY" : 0.0, 
+    "SheetMaxY" : 600.0, 
+    "ToolIdlingSpeed" : 500.0, 
+    "ToolCutSpeed" : 10.0, 
+    "PiercingDuration" : 7.0
+  }, 
+  "Contours" : [
+    {
+      "Index" : 1, 
+      "ZeroBasedIndex" : 0, 
+      "Points" : [
+        {
+          "Index" : 1, 
+          "ZeroBasedIndex" : 0, 
+          "GlobalIndex" : 1, 
+          "ZeroBasedGlobalIndex" : 0, 
+          "X" : 10.0, 
+          "Y" : 140.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 2, 
+          "ZeroBasedIndex" : 1, 
+          "GlobalIndex" : 2, 
+          "ZeroBasedGlobalIndex" : 1, 
+          "X" : 10.0, 
+          "Y" : 170.212765957447, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 3, 
+          "ZeroBasedIndex" : 2, 
+          "GlobalIndex" : 3, 
+          "ZeroBasedGlobalIndex" : 2, 
+          "X" : 10.0, 
+          "Y" : 200.425531914894, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 4, 
+          "ZeroBasedIndex" : 3, 
+          "GlobalIndex" : 4, 
+          "ZeroBasedGlobalIndex" : 3, 
+          "X" : 10.0, 
+          "Y" : 230.63829787234, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 5, 
+          "ZeroBasedIndex" : 4, 
+          "GlobalIndex" : 5, 
+          "ZeroBasedGlobalIndex" : 4, 
+          "X" : 10.851063829787, 
+          "Y" : 260.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 6, 
+          "ZeroBasedIndex" : 5, 
+          "GlobalIndex" : 6, 
+          "ZeroBasedGlobalIndex" : 5, 
+          "X" : 41.063829787234, 
+          "Y" : 260.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 7, 
+          "ZeroBasedIndex" : 6, 
+          "GlobalIndex" : 7, 
+          "ZeroBasedGlobalIndex" : 6, 
+          "X" : 71.276595744681, 
+          "Y" : 260.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 8, 
+          "ZeroBasedIndex" : 7, 
+          "GlobalIndex" : 8, 
+          "ZeroBasedGlobalIndex" : 7, 
+          "X" : 101.489361702128, 
+          "Y" : 260.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 9, 
+          "ZeroBasedIndex" : 8, 
+          "GlobalIndex" : 9, 
+          "ZeroBasedGlobalIndex" : 8, 
+          "X" : 131.702127659575, 
+          "Y" : 260.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 10, 
+          "ZeroBasedIndex" : 9, 
+          "GlobalIndex" : 10, 
+          "ZeroBasedGlobalIndex" : 9, 
+          "X" : 161.914893617021, 
+          "Y" : 260.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 11, 
+          "ZeroBasedIndex" : 10, 
+          "GlobalIndex" : 11, 
+          "ZeroBasedGlobalIndex" : 10, 
+          "X" : 192.127659574468, 
+          "Y" : 260.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 12, 
+          "ZeroBasedIndex" : 11, 
+          "GlobalIndex" : 12, 
+          "ZeroBasedGlobalIndex" : 11, 
+          "X" : 222.340425531915, 
+          "Y" : 260.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 13, 
+          "ZeroBasedIndex" : 12, 
+          "GlobalIndex" : 13, 
+          "ZeroBasedGlobalIndex" : 12, 
+          "X" : 252.553191489362, 
+          "Y" : 260.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 14, 
+          "ZeroBasedIndex" : 13, 
+          "GlobalIndex" : 14, 
+          "ZeroBasedGlobalIndex" : 13, 
+          "X" : 282.765957446809, 
+          "Y" : 260.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 15, 
+          "ZeroBasedIndex" : 14, 
+          "GlobalIndex" : 15, 
+          "ZeroBasedGlobalIndex" : 14, 
+          "X" : 312.978723404255, 
+          "Y" : 260.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 16, 
+          "ZeroBasedIndex" : 15, 
+          "GlobalIndex" : 16, 
+          "ZeroBasedGlobalIndex" : 15, 
+          "X" : 343.191489361702, 
+          "Y" : 260.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 17, 
+          "ZeroBasedIndex" : 16, 
+          "GlobalIndex" : 17, 
+          "ZeroBasedGlobalIndex" : 16, 
+          "X" : 373.404255319149, 
+          "Y" : 260.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 18, 
+          "ZeroBasedIndex" : 17, 
+          "GlobalIndex" : 18, 
+          "ZeroBasedGlobalIndex" : 17, 
+          "X" : 403.617021276596, 
+          "Y" : 260.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 19, 
+          "ZeroBasedIndex" : 18, 
+          "GlobalIndex" : 19, 
+          "ZeroBasedGlobalIndex" : 18, 
+          "X" : 433.829787234043, 
+          "Y" : 260.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 20, 
+          "ZeroBasedIndex" : 19, 
+          "GlobalIndex" : 20, 
+          "ZeroBasedGlobalIndex" : 19, 
+          "X" : 464.042553191489, 
+          "Y" : 260.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 21, 
+          "ZeroBasedIndex" : 20, 
+          "GlobalIndex" : 21, 
+          "ZeroBasedGlobalIndex" : 20, 
+          "X" : 494.255319148936, 
+          "Y" : 260.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 22, 
+          "ZeroBasedIndex" : 21, 
+          "GlobalIndex" : 22, 
+          "ZeroBasedGlobalIndex" : 21, 
+          "X" : 524.468085106383, 
+          "Y" : 260.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 23, 
+          "ZeroBasedIndex" : 22, 
+          "GlobalIndex" : 23, 
+          "ZeroBasedGlobalIndex" : 22, 
+          "X" : 554.68085106383, 
+          "Y" : 260.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 24, 
+          "ZeroBasedIndex" : 23, 
+          "GlobalIndex" : 24, 
+          "ZeroBasedGlobalIndex" : 23, 
+          "X" : 584.893617021277, 
+          "Y" : 260.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 25, 
+          "ZeroBasedIndex" : 24, 
+          "GlobalIndex" : 25, 
+          "ZeroBasedGlobalIndex" : 24, 
+          "X" : 600.0, 
+          "Y" : 244.893617021277, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 26, 
+          "ZeroBasedIndex" : 25, 
+          "GlobalIndex" : 26, 
+          "ZeroBasedGlobalIndex" : 25, 
+          "X" : 600.0, 
+          "Y" : 214.68085106383, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 27, 
+          "ZeroBasedIndex" : 26, 
+          "GlobalIndex" : 27, 
+          "ZeroBasedGlobalIndex" : 26, 
+          "X" : 600.0, 
+          "Y" : 184.468085106383, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 28, 
+          "ZeroBasedIndex" : 27, 
+          "GlobalIndex" : 28, 
+          "ZeroBasedGlobalIndex" : 27, 
+          "X" : 600.0, 
+          "Y" : 154.255319148936, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 29, 
+          "ZeroBasedIndex" : 28, 
+          "GlobalIndex" : 29, 
+          "ZeroBasedGlobalIndex" : 28, 
+          "X" : 584.042553191489, 
+          "Y" : 140.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 30, 
+          "ZeroBasedIndex" : 29, 
+          "GlobalIndex" : 30, 
+          "ZeroBasedGlobalIndex" : 29, 
+          "X" : 553.829787234043, 
+          "Y" : 140.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 31, 
+          "ZeroBasedIndex" : 30, 
+          "GlobalIndex" : 31, 
+          "ZeroBasedGlobalIndex" : 30, 
+          "X" : 523.617021276596, 
+          "Y" : 140.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 32, 
+          "ZeroBasedIndex" : 31, 
+          "GlobalIndex" : 32, 
+          "ZeroBasedGlobalIndex" : 31, 
+          "X" : 493.404255319149, 
+          "Y" : 140.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 33, 
+          "ZeroBasedIndex" : 32, 
+          "GlobalIndex" : 33, 
+          "ZeroBasedGlobalIndex" : 32, 
+          "X" : 463.191489361702, 
+          "Y" : 140.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 34, 
+          "ZeroBasedIndex" : 33, 
+          "GlobalIndex" : 34, 
+          "ZeroBasedGlobalIndex" : 33, 
+          "X" : 432.978723404255, 
+          "Y" : 140.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 35, 
+          "ZeroBasedIndex" : 34, 
+          "GlobalIndex" : 35, 
+          "ZeroBasedGlobalIndex" : 34, 
+          "X" : 402.765957446809, 
+          "Y" : 140.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 36, 
+          "ZeroBasedIndex" : 35, 
+          "GlobalIndex" : 36, 
+          "ZeroBasedGlobalIndex" : 35, 
+          "X" : 372.553191489362, 
+          "Y" : 140.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 37, 
+          "ZeroBasedIndex" : 36, 
+          "GlobalIndex" : 37, 
+          "ZeroBasedGlobalIndex" : 36, 
+          "X" : 342.340425531915, 
+          "Y" : 140.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 38, 
+          "ZeroBasedIndex" : 37, 
+          "GlobalIndex" : 38, 
+          "ZeroBasedGlobalIndex" : 37, 
+          "X" : 312.127659574468, 
+          "Y" : 140.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 39, 
+          "ZeroBasedIndex" : 38, 
+          "GlobalIndex" : 39, 
+          "ZeroBasedGlobalIndex" : 38, 
+          "X" : 281.914893617021, 
+          "Y" : 140.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 40, 
+          "ZeroBasedIndex" : 39, 
+          "GlobalIndex" : 40, 
+          "ZeroBasedGlobalIndex" : 39, 
+          "X" : 251.702127659574, 
+          "Y" : 140.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 41, 
+          "ZeroBasedIndex" : 40, 
+          "GlobalIndex" : 41, 
+          "ZeroBasedGlobalIndex" : 40, 
+          "X" : 221.489361702128, 
+          "Y" : 140.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 42, 
+          "ZeroBasedIndex" : 41, 
+          "GlobalIndex" : 42, 
+          "ZeroBasedGlobalIndex" : 41, 
+          "X" : 191.276595744681, 
+          "Y" : 140.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 43, 
+          "ZeroBasedIndex" : 42, 
+          "GlobalIndex" : 43, 
+          "ZeroBasedGlobalIndex" : 42, 
+          "X" : 161.063829787234, 
+          "Y" : 140.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 44, 
+          "ZeroBasedIndex" : 43, 
+          "GlobalIndex" : 44, 
+          "ZeroBasedGlobalIndex" : 43, 
+          "X" : 130.851063829787, 
+          "Y" : 140.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 45, 
+          "ZeroBasedIndex" : 44, 
+          "GlobalIndex" : 45, 
+          "ZeroBasedGlobalIndex" : 44, 
+          "X" : 100.638297872341, 
+          "Y" : 140.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 46, 
+          "ZeroBasedIndex" : 45, 
+          "GlobalIndex" : 46, 
+          "ZeroBasedGlobalIndex" : 45, 
+          "X" : 70.425531914894, 
+          "Y" : 140.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 47, 
+          "ZeroBasedIndex" : 46, 
+          "GlobalIndex" : 47, 
+          "ZeroBasedGlobalIndex" : 46, 
+          "X" : 40.212765957447, 
+          "Y" : 140.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }
+      ]
+    }, 
+    {
+      "Index" : 2, 
+      "ZeroBasedIndex" : 1, 
+      "Points" : [
+        {
+          "Index" : 1, 
+          "ZeroBasedIndex" : 0, 
+          "GlobalIndex" : 48, 
+          "ZeroBasedGlobalIndex" : 47, 
+          "X" : 156.432006835938, 
+          "Y" : 270.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 2, 
+          "ZeroBasedIndex" : 1, 
+          "GlobalIndex" : 49, 
+          "ZeroBasedGlobalIndex" : 48, 
+          "X" : 156.432006835938, 
+          "Y" : 300.212765957447, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 3, 
+          "ZeroBasedIndex" : 2, 
+          "GlobalIndex" : 50, 
+          "ZeroBasedGlobalIndex" : 49, 
+          "X" : 156.432006835938, 
+          "Y" : 330.425531914894, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 4, 
+          "ZeroBasedIndex" : 3, 
+          "GlobalIndex" : 51, 
+          "ZeroBasedGlobalIndex" : 50, 
+          "X" : 156.432006835938, 
+          "Y" : 360.63829787234, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 5, 
+          "ZeroBasedIndex" : 4, 
+          "GlobalIndex" : 52, 
+          "ZeroBasedGlobalIndex" : 51, 
+          "X" : 157.283070665725, 
+          "Y" : 390.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 6, 
+          "ZeroBasedIndex" : 5, 
+          "GlobalIndex" : 53, 
+          "ZeroBasedGlobalIndex" : 52, 
+          "X" : 187.495836623172, 
+          "Y" : 390.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 7, 
+          "ZeroBasedIndex" : 6, 
+          "GlobalIndex" : 54, 
+          "ZeroBasedGlobalIndex" : 53, 
+          "X" : 217.708602580618, 
+          "Y" : 390.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 8, 
+          "ZeroBasedIndex" : 7, 
+          "GlobalIndex" : 55, 
+          "ZeroBasedGlobalIndex" : 54, 
+          "X" : 247.921368538065, 
+          "Y" : 390.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 9, 
+          "ZeroBasedIndex" : 8, 
+          "GlobalIndex" : 56, 
+          "ZeroBasedGlobalIndex" : 55, 
+          "X" : 278.134134495512, 
+          "Y" : 390.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 10, 
+          "ZeroBasedIndex" : 9, 
+          "GlobalIndex" : 57, 
+          "ZeroBasedGlobalIndex" : 56, 
+          "X" : 308.346900452959, 
+          "Y" : 390.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 11, 
+          "ZeroBasedIndex" : 10, 
+          "GlobalIndex" : 58, 
+          "ZeroBasedGlobalIndex" : 57, 
+          "X" : 338.559666410406, 
+          "Y" : 390.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 12, 
+          "ZeroBasedIndex" : 11, 
+          "GlobalIndex" : 59, 
+          "ZeroBasedGlobalIndex" : 58, 
+          "X" : 368.772432367852, 
+          "Y" : 390.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 13, 
+          "ZeroBasedIndex" : 12, 
+          "GlobalIndex" : 60, 
+          "ZeroBasedGlobalIndex" : 59, 
+          "X" : 398.985198325299, 
+          "Y" : 390.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 14, 
+          "ZeroBasedIndex" : 13, 
+          "GlobalIndex" : 61, 
+          "ZeroBasedGlobalIndex" : 60, 
+          "X" : 429.197964282746, 
+          "Y" : 390.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 15, 
+          "ZeroBasedIndex" : 14, 
+          "GlobalIndex" : 62, 
+          "ZeroBasedGlobalIndex" : 61, 
+          "X" : 459.410730240193, 
+          "Y" : 390.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 16, 
+          "ZeroBasedIndex" : 15, 
+          "GlobalIndex" : 63, 
+          "ZeroBasedGlobalIndex" : 62, 
+          "X" : 489.62349619764, 
+          "Y" : 390.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 17, 
+          "ZeroBasedIndex" : 16, 
+          "GlobalIndex" : 64, 
+          "ZeroBasedGlobalIndex" : 63, 
+          "X" : 519.836262155086, 
+          "Y" : 390.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 18, 
+          "ZeroBasedIndex" : 17, 
+          "GlobalIndex" : 65, 
+          "ZeroBasedGlobalIndex" : 64, 
+          "X" : 550.049028112533, 
+          "Y" : 390.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 19, 
+          "ZeroBasedIndex" : 18, 
+          "GlobalIndex" : 66, 
+          "ZeroBasedGlobalIndex" : 65, 
+          "X" : 580.26179406998, 
+          "Y" : 390.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 20, 
+          "ZeroBasedIndex" : 19, 
+          "GlobalIndex" : 67, 
+          "ZeroBasedGlobalIndex" : 66, 
+          "X" : 610.474560027427, 
+          "Y" : 390.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 21, 
+          "ZeroBasedIndex" : 20, 
+          "GlobalIndex" : 68, 
+          "ZeroBasedGlobalIndex" : 67, 
+          "X" : 640.687325984874, 
+          "Y" : 390.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 22, 
+          "ZeroBasedIndex" : 21, 
+          "GlobalIndex" : 69, 
+          "ZeroBasedGlobalIndex" : 68, 
+          "X" : 670.90009194232, 
+          "Y" : 390.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 23, 
+          "ZeroBasedIndex" : 22, 
+          "GlobalIndex" : 70, 
+          "ZeroBasedGlobalIndex" : 69, 
+          "X" : 701.112857899767, 
+          "Y" : 390.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 24, 
+          "ZeroBasedIndex" : 23, 
+          "GlobalIndex" : 71, 
+          "ZeroBasedGlobalIndex" : 70, 
+          "X" : 731.325623857214, 
+          "Y" : 390.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 25, 
+          "ZeroBasedIndex" : 24, 
+          "GlobalIndex" : 72, 
+          "ZeroBasedGlobalIndex" : 71, 
+          "X" : 746.432006835937, 
+          "Y" : 374.893617021277, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 26, 
+          "ZeroBasedIndex" : 25, 
+          "GlobalIndex" : 73, 
+          "ZeroBasedGlobalIndex" : 72, 
+          "X" : 746.432006835937, 
+          "Y" : 344.68085106383, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 27, 
+          "ZeroBasedIndex" : 26, 
+          "GlobalIndex" : 74, 
+          "ZeroBasedGlobalIndex" : 73, 
+          "X" : 746.432006835937, 
+          "Y" : 314.468085106383, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 28, 
+          "ZeroBasedIndex" : 27, 
+          "GlobalIndex" : 75, 
+          "ZeroBasedGlobalIndex" : 74, 
+          "X" : 746.432006835937, 
+          "Y" : 284.255319148936, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 29, 
+          "ZeroBasedIndex" : 28, 
+          "GlobalIndex" : 76, 
+          "ZeroBasedGlobalIndex" : 75, 
+          "X" : 730.474560027427, 
+          "Y" : 270.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 30, 
+          "ZeroBasedIndex" : 29, 
+          "GlobalIndex" : 77, 
+          "ZeroBasedGlobalIndex" : 76, 
+          "X" : 700.26179406998, 
+          "Y" : 270.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 31, 
+          "ZeroBasedIndex" : 30, 
+          "GlobalIndex" : 78, 
+          "ZeroBasedGlobalIndex" : 77, 
+          "X" : 670.049028112533, 
+          "Y" : 270.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 32, 
+          "ZeroBasedIndex" : 31, 
+          "GlobalIndex" : 79, 
+          "ZeroBasedGlobalIndex" : 78, 
+          "X" : 639.836262155086, 
+          "Y" : 270.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 33, 
+          "ZeroBasedIndex" : 32, 
+          "GlobalIndex" : 80, 
+          "ZeroBasedGlobalIndex" : 79, 
+          "X" : 609.62349619764, 
+          "Y" : 270.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 34, 
+          "ZeroBasedIndex" : 33, 
+          "GlobalIndex" : 81, 
+          "ZeroBasedGlobalIndex" : 80, 
+          "X" : 579.410730240193, 
+          "Y" : 270.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 35, 
+          "ZeroBasedIndex" : 34, 
+          "GlobalIndex" : 82, 
+          "ZeroBasedGlobalIndex" : 81, 
+          "X" : 549.197964282746, 
+          "Y" : 270.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 36, 
+          "ZeroBasedIndex" : 35, 
+          "GlobalIndex" : 83, 
+          "ZeroBasedGlobalIndex" : 82, 
+          "X" : 518.985198325299, 
+          "Y" : 270.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 37, 
+          "ZeroBasedIndex" : 36, 
+          "GlobalIndex" : 84, 
+          "ZeroBasedGlobalIndex" : 83, 
+          "X" : 488.772432367852, 
+          "Y" : 270.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 38, 
+          "ZeroBasedIndex" : 37, 
+          "GlobalIndex" : 85, 
+          "ZeroBasedGlobalIndex" : 84, 
+          "X" : 458.559666410406, 
+          "Y" : 270.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 39, 
+          "ZeroBasedIndex" : 38, 
+          "GlobalIndex" : 86, 
+          "ZeroBasedGlobalIndex" : 85, 
+          "X" : 428.346900452959, 
+          "Y" : 270.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 40, 
+          "ZeroBasedIndex" : 39, 
+          "GlobalIndex" : 87, 
+          "ZeroBasedGlobalIndex" : 86, 
+          "X" : 398.134134495512, 
+          "Y" : 270.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 41, 
+          "ZeroBasedIndex" : 40, 
+          "GlobalIndex" : 88, 
+          "ZeroBasedGlobalIndex" : 87, 
+          "X" : 367.921368538065, 
+          "Y" : 270.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 42, 
+          "ZeroBasedIndex" : 41, 
+          "GlobalIndex" : 89, 
+          "ZeroBasedGlobalIndex" : 88, 
+          "X" : 337.708602580618, 
+          "Y" : 270.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 43, 
+          "ZeroBasedIndex" : 42, 
+          "GlobalIndex" : 90, 
+          "ZeroBasedGlobalIndex" : 89, 
+          "X" : 307.495836623171, 
+          "Y" : 270.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 44, 
+          "ZeroBasedIndex" : 43, 
+          "GlobalIndex" : 91, 
+          "ZeroBasedGlobalIndex" : 90, 
+          "X" : 277.283070665725, 
+          "Y" : 270.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 45, 
+          "ZeroBasedIndex" : 44, 
+          "GlobalIndex" : 92, 
+          "ZeroBasedGlobalIndex" : 91, 
+          "X" : 247.070304708278, 
+          "Y" : 270.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 46, 
+          "ZeroBasedIndex" : 45, 
+          "GlobalIndex" : 93, 
+          "ZeroBasedGlobalIndex" : 92, 
+          "X" : 216.857538750831, 
+          "Y" : 270.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 47, 
+          "ZeroBasedIndex" : 46, 
+          "GlobalIndex" : 94, 
+          "ZeroBasedGlobalIndex" : 93, 
+          "X" : 186.644772793384, 
+          "Y" : 270.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }
+      ]
+    }, 
+    {
+      "Index" : 3, 
+      "ZeroBasedIndex" : 2, 
+      "Points" : [
+        {
+          "Index" : 1, 
+          "ZeroBasedIndex" : 0, 
+          "GlobalIndex" : 95, 
+          "ZeroBasedGlobalIndex" : 94, 
+          "X" : 216.309600830078, 
+          "Y" : 400.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 2, 
+          "ZeroBasedIndex" : 1, 
+          "GlobalIndex" : 96, 
+          "ZeroBasedGlobalIndex" : 95, 
+          "X" : 216.309600830078, 
+          "Y" : 431.173198649763, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 3, 
+          "ZeroBasedIndex" : 2, 
+          "GlobalIndex" : 97, 
+          "ZeroBasedGlobalIndex" : 96, 
+          "X" : 216.309600830078, 
+          "Y" : 462.346397299526, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 4, 
+          "ZeroBasedIndex" : 3, 
+          "GlobalIndex" : 98, 
+          "ZeroBasedGlobalIndex" : 97, 
+          "X" : 216.309600830078, 
+          "Y" : 493.519595949289, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 5, 
+          "ZeroBasedIndex" : 4, 
+          "GlobalIndex" : 99, 
+          "ZeroBasedGlobalIndex" : 98, 
+          "X" : 216.309600830078, 
+          "Y" : 524.692794599052, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 6, 
+          "ZeroBasedIndex" : 5, 
+          "GlobalIndex" : 100, 
+          "ZeroBasedGlobalIndex" : 99, 
+          "X" : 216.309600830078, 
+          "Y" : 555.865993248816, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 7, 
+          "ZeroBasedIndex" : 6, 
+          "GlobalIndex" : 101, 
+          "ZeroBasedGlobalIndex" : 100, 
+          "X" : 231.348792728657, 
+          "Y" : 572.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 8, 
+          "ZeroBasedIndex" : 7, 
+          "GlobalIndex" : 102, 
+          "ZeroBasedGlobalIndex" : 101, 
+          "X" : 262.52199137842, 
+          "Y" : 572.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 9, 
+          "ZeroBasedIndex" : 8, 
+          "GlobalIndex" : 103, 
+          "ZeroBasedGlobalIndex" : 102, 
+          "X" : 286.309600830078, 
+          "Y" : 556.413400675118, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 10, 
+          "ZeroBasedIndex" : 9, 
+          "GlobalIndex" : 104, 
+          "ZeroBasedGlobalIndex" : 103, 
+          "X" : 286.309600830078, 
+          "Y" : 525.240202025355, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 11, 
+          "ZeroBasedIndex" : 10, 
+          "GlobalIndex" : 105, 
+          "ZeroBasedGlobalIndex" : 104, 
+          "X" : 286.309600830078, 
+          "Y" : 494.067003375592, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 12, 
+          "ZeroBasedIndex" : 11, 
+          "GlobalIndex" : 106, 
+          "ZeroBasedGlobalIndex" : 105, 
+          "X" : 286.309600830078, 
+          "Y" : 462.893804725829, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 13, 
+          "ZeroBasedIndex" : 12, 
+          "GlobalIndex" : 107, 
+          "ZeroBasedGlobalIndex" : 106, 
+          "X" : 286.309600830078, 
+          "Y" : 431.720606076066, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 14, 
+          "ZeroBasedIndex" : 13, 
+          "GlobalIndex" : 108, 
+          "ZeroBasedGlobalIndex" : 107, 
+          "X" : 276.797181396677, 
+          "Y" : 404.487580566599, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 15, 
+          "ZeroBasedIndex" : 14, 
+          "GlobalIndex" : 109, 
+          "ZeroBasedGlobalIndex" : 108, 
+          "X" : 247.482799479841, 
+          "Y" : 400.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }
+      ]
+    }, 
+    {
+      "Index" : 4, 
+      "ZeroBasedIndex" : 3, 
+      "Points" : [
+        {
+          "Index" : 1, 
+          "ZeroBasedIndex" : 0, 
+          "GlobalIndex" : 110, 
+          "ZeroBasedGlobalIndex" : 109, 
+          "X" : 756.432006835937, 
+          "Y" : 220.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 2, 
+          "ZeroBasedIndex" : 1, 
+          "GlobalIndex" : 111, 
+          "ZeroBasedGlobalIndex" : 110, 
+          "X" : 756.432006835937, 
+          "Y" : 250.769230769231, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 3, 
+          "ZeroBasedIndex" : 2, 
+          "GlobalIndex" : 112, 
+          "ZeroBasedGlobalIndex" : 111, 
+          "X" : 756.432006835937, 
+          "Y" : 281.538461538462, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 4, 
+          "ZeroBasedIndex" : 3, 
+          "GlobalIndex" : 113, 
+          "ZeroBasedGlobalIndex" : 112, 
+          "X" : 756.432006835937, 
+          "Y" : 312.307692307692, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 5, 
+          "ZeroBasedIndex" : 4, 
+          "GlobalIndex" : 114, 
+          "ZeroBasedGlobalIndex" : 113, 
+          "X" : 756.432006835937, 
+          "Y" : 343.076923076923, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 6, 
+          "ZeroBasedIndex" : 5, 
+          "GlobalIndex" : 115, 
+          "ZeroBasedGlobalIndex" : 114, 
+          "X" : 756.432006835937, 
+          "Y" : 373.846153846154, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 7, 
+          "ZeroBasedIndex" : 6, 
+          "GlobalIndex" : 116, 
+          "ZeroBasedGlobalIndex" : 115, 
+          "X" : 756.432006835937, 
+          "Y" : 404.615384615385, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 8, 
+          "ZeroBasedIndex" : 7, 
+          "GlobalIndex" : 117, 
+          "ZeroBasedGlobalIndex" : 116, 
+          "X" : 771.816622220553, 
+          "Y" : 420.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 9, 
+          "ZeroBasedIndex" : 8, 
+          "GlobalIndex" : 118, 
+          "ZeroBasedGlobalIndex" : 117, 
+          "X" : 802.585852989784, 
+          "Y" : 420.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 10, 
+          "ZeroBasedIndex" : 9, 
+          "GlobalIndex" : 119, 
+          "ZeroBasedGlobalIndex" : 118, 
+          "X" : 833.355083759014, 
+          "Y" : 420.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 11, 
+          "ZeroBasedIndex" : 10, 
+          "GlobalIndex" : 120, 
+          "ZeroBasedGlobalIndex" : 119, 
+          "X" : 864.124314528245, 
+          "Y" : 420.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 12, 
+          "ZeroBasedIndex" : 11, 
+          "GlobalIndex" : 121, 
+          "ZeroBasedGlobalIndex" : 120, 
+          "X" : 894.893545297476, 
+          "Y" : 420.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 13, 
+          "ZeroBasedIndex" : 12, 
+          "GlobalIndex" : 122, 
+          "ZeroBasedGlobalIndex" : 121, 
+          "X" : 925.662776066707, 
+          "Y" : 420.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 14, 
+          "ZeroBasedIndex" : 13, 
+          "GlobalIndex" : 123, 
+          "ZeroBasedGlobalIndex" : 122, 
+          "X" : 956.432006835937, 
+          "Y" : 420.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 15, 
+          "ZeroBasedIndex" : 14, 
+          "GlobalIndex" : 124, 
+          "ZeroBasedGlobalIndex" : 123, 
+          "X" : 956.432006835937, 
+          "Y" : 389.230769230769, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 16, 
+          "ZeroBasedIndex" : 15, 
+          "GlobalIndex" : 125, 
+          "ZeroBasedGlobalIndex" : 124, 
+          "X" : 956.432006835937, 
+          "Y" : 358.461538461539, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 17, 
+          "ZeroBasedIndex" : 16, 
+          "GlobalIndex" : 126, 
+          "ZeroBasedGlobalIndex" : 125, 
+          "X" : 956.432006835937, 
+          "Y" : 327.692307692308, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 18, 
+          "ZeroBasedIndex" : 17, 
+          "GlobalIndex" : 127, 
+          "ZeroBasedGlobalIndex" : 126, 
+          "X" : 956.432006835937, 
+          "Y" : 296.923076923077, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 19, 
+          "ZeroBasedIndex" : 18, 
+          "GlobalIndex" : 128, 
+          "ZeroBasedGlobalIndex" : 127, 
+          "X" : 956.432006835937, 
+          "Y" : 266.153846153846, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 20, 
+          "ZeroBasedIndex" : 19, 
+          "GlobalIndex" : 129, 
+          "ZeroBasedGlobalIndex" : 128, 
+          "X" : 956.432006835937, 
+          "Y" : 235.384615384615, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 21, 
+          "ZeroBasedIndex" : 20, 
+          "GlobalIndex" : 130, 
+          "ZeroBasedGlobalIndex" : 129, 
+          "X" : 941.047391451322, 
+          "Y" : 220.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 22, 
+          "ZeroBasedIndex" : 21, 
+          "GlobalIndex" : 131, 
+          "ZeroBasedGlobalIndex" : 130, 
+          "X" : 910.278160682091, 
+          "Y" : 220.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 23, 
+          "ZeroBasedIndex" : 22, 
+          "GlobalIndex" : 132, 
+          "ZeroBasedGlobalIndex" : 131, 
+          "X" : 879.50892991286, 
+          "Y" : 220.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 24, 
+          "ZeroBasedIndex" : 23, 
+          "GlobalIndex" : 133, 
+          "ZeroBasedGlobalIndex" : 132, 
+          "X" : 848.73969914363, 
+          "Y" : 220.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 25, 
+          "ZeroBasedIndex" : 24, 
+          "GlobalIndex" : 134, 
+          "ZeroBasedGlobalIndex" : 133, 
+          "X" : 817.970468374399, 
+          "Y" : 220.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 26, 
+          "ZeroBasedIndex" : 25, 
+          "GlobalIndex" : 135, 
+          "ZeroBasedGlobalIndex" : 134, 
+          "X" : 787.201237605168, 
+          "Y" : 220.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }
+      ]
+    }, 
+    {
+      "Index" : 5, 
+      "ZeroBasedIndex" : 4, 
+      "Points" : [
+        {
+          "Index" : 1, 
+          "ZeroBasedIndex" : 0, 
+          "GlobalIndex" : 136, 
+          "ZeroBasedGlobalIndex" : 135, 
+          "X" : 46.431999206543, 
+          "Y" : 420.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 2, 
+          "ZeroBasedIndex" : 1, 
+          "GlobalIndex" : 137, 
+          "ZeroBasedGlobalIndex" : 136, 
+          "X" : 77.827040137248, 
+          "Y" : 420.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 3, 
+          "ZeroBasedIndex" : 2, 
+          "GlobalIndex" : 138, 
+          "ZeroBasedGlobalIndex" : 137, 
+          "X" : 109.222081067954, 
+          "Y" : 420.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 4, 
+          "ZeroBasedIndex" : 3, 
+          "GlobalIndex" : 139, 
+          "ZeroBasedGlobalIndex" : 138, 
+          "X" : 140.617121998659, 
+          "Y" : 420.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 5, 
+          "ZeroBasedIndex" : 4, 
+          "GlobalIndex" : 140, 
+          "ZeroBasedGlobalIndex" : 139, 
+          "X" : 146.432006835938, 
+          "Y" : 394.419843906573, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 6, 
+          "ZeroBasedIndex" : 5, 
+          "GlobalIndex" : 141, 
+          "ZeroBasedGlobalIndex" : 140, 
+          "X" : 146.432006835938, 
+          "Y" : 363.024802975868, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 7, 
+          "ZeroBasedIndex" : 6, 
+          "GlobalIndex" : 142, 
+          "ZeroBasedGlobalIndex" : 141, 
+          "X" : 146.432006835938, 
+          "Y" : 331.629762045162, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 8, 
+          "ZeroBasedIndex" : 7, 
+          "GlobalIndex" : 143, 
+          "ZeroBasedGlobalIndex" : 142, 
+          "X" : 146.432006835938, 
+          "Y" : 300.234721114457, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 9, 
+          "ZeroBasedIndex" : 8, 
+          "GlobalIndex" : 144, 
+          "ZeroBasedGlobalIndex" : 143, 
+          "X" : 145.271687019689, 
+          "Y" : 270.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 10, 
+          "ZeroBasedIndex" : 9, 
+          "GlobalIndex" : 145, 
+          "ZeroBasedGlobalIndex" : 144, 
+          "X" : 122.07827707461, 
+          "Y" : 284.855922405147, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 11, 
+          "ZeroBasedIndex" : 10, 
+          "GlobalIndex" : 146, 
+          "ZeroBasedGlobalIndex" : 145, 
+          "X" : 105.350581589197, 
+          "Y" : 311.423436379698, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 12, 
+          "ZeroBasedIndex" : 11, 
+          "GlobalIndex" : 147, 
+          "ZeroBasedGlobalIndex" : 146, 
+          "X" : 88.622886103783, 
+          "Y" : 337.990950354248, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 13, 
+          "ZeroBasedIndex" : 12, 
+          "GlobalIndex" : 148, 
+          "ZeroBasedGlobalIndex" : 147, 
+          "X" : 71.895190618369, 
+          "Y" : 364.558464328799, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 14, 
+          "ZeroBasedIndex" : 13, 
+          "GlobalIndex" : 149, 
+          "ZeroBasedGlobalIndex" : 148, 
+          "X" : 55.167495132956, 
+          "Y" : 391.125978303349, 
+          "UseCircuitAndFinishCutPoint" : false
+        }
+      ]
+    }, 
+    {
+      "Index" : 6, 
+      "ZeroBasedIndex" : 5, 
+      "Points" : [
+        {
+          "Index" : 1, 
+          "ZeroBasedIndex" : 0, 
+          "GlobalIndex" : 150, 
+          "ZeroBasedGlobalIndex" : 149, 
+          "X" : 110.0, 
+          "Y" : 270.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 2, 
+          "ZeroBasedIndex" : 1, 
+          "GlobalIndex" : 151, 
+          "ZeroBasedGlobalIndex" : 150, 
+          "X" : 78.604959904612, 
+          "Y" : 270.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 3, 
+          "ZeroBasedIndex" : 2, 
+          "GlobalIndex" : 152, 
+          "ZeroBasedGlobalIndex" : 151, 
+          "X" : 47.209919809223, 
+          "Y" : 270.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 4, 
+          "ZeroBasedIndex" : 3, 
+          "GlobalIndex" : 153, 
+          "ZeroBasedGlobalIndex" : 152, 
+          "X" : 15.814879713835, 
+          "Y" : 270.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 5, 
+          "ZeroBasedIndex" : 4, 
+          "GlobalIndex" : 154, 
+          "ZeroBasedGlobalIndex" : 153, 
+          "X" : 10.0, 
+          "Y" : 295.580160381554, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 6, 
+          "ZeroBasedIndex" : 5, 
+          "GlobalIndex" : 155, 
+          "ZeroBasedGlobalIndex" : 154, 
+          "X" : 10.0, 
+          "Y" : 326.975200476942, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 7, 
+          "ZeroBasedIndex" : 6, 
+          "GlobalIndex" : 156, 
+          "ZeroBasedGlobalIndex" : 155, 
+          "X" : 10.0, 
+          "Y" : 358.370240572331, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 8, 
+          "ZeroBasedIndex" : 7, 
+          "GlobalIndex" : 157, 
+          "ZeroBasedGlobalIndex" : 156, 
+          "X" : 10.0, 
+          "Y" : 389.765280667719, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 9, 
+          "ZeroBasedIndex" : 8, 
+          "GlobalIndex" : 158, 
+          "ZeroBasedGlobalIndex" : 157, 
+          "X" : 11.160320763108, 
+          "Y" : 420.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 10, 
+          "ZeroBasedIndex" : 9, 
+          "GlobalIndex" : 159, 
+          "ZeroBasedGlobalIndex" : 158, 
+          "X" : 34.353729219535, 
+          "Y" : 405.144077121915, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 11, 
+          "ZeroBasedIndex" : 10, 
+          "GlobalIndex" : 160, 
+          "ZeroBasedGlobalIndex" : 159, 
+          "X" : 51.081423184687, 
+          "Y" : 378.576563177262, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 12, 
+          "ZeroBasedIndex" : 11, 
+          "GlobalIndex" : 161, 
+          "ZeroBasedGlobalIndex" : 160, 
+          "X" : 67.809117149838, 
+          "Y" : 352.00904923261, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 13, 
+          "ZeroBasedIndex" : 12, 
+          "GlobalIndex" : 162, 
+          "ZeroBasedGlobalIndex" : 161, 
+          "X" : 84.536811114989, 
+          "Y" : 325.441535287958, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 14, 
+          "ZeroBasedIndex" : 13, 
+          "GlobalIndex" : 163, 
+          "ZeroBasedGlobalIndex" : 162, 
+          "X" : 101.264505080141, 
+          "Y" : 298.874021343306, 
+          "UseCircuitAndFinishCutPoint" : false
+        }
+      ]
+    }, 
+    {
+      "Index" : 7, 
+      "ZeroBasedIndex" : 6, 
+      "Points" : [
+        {
+          "Index" : 1, 
+          "ZeroBasedIndex" : 0, 
+          "GlobalIndex" : 164, 
+          "ZeroBasedGlobalIndex" : 163, 
+          "X" : 670.0, 
+          "Y" : 10.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 2, 
+          "ZeroBasedIndex" : 1, 
+          "GlobalIndex" : 165, 
+          "ZeroBasedGlobalIndex" : 164, 
+          "X" : 670.0, 
+          "Y" : 40.769230769231, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 3, 
+          "ZeroBasedIndex" : 2, 
+          "GlobalIndex" : 166, 
+          "ZeroBasedGlobalIndex" : 165, 
+          "X" : 670.0, 
+          "Y" : 71.538461538462, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 4, 
+          "ZeroBasedIndex" : 3, 
+          "GlobalIndex" : 167, 
+          "ZeroBasedGlobalIndex" : 166, 
+          "X" : 670.0, 
+          "Y" : 102.307692307692, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 5, 
+          "ZeroBasedIndex" : 4, 
+          "GlobalIndex" : 168, 
+          "ZeroBasedGlobalIndex" : 167, 
+          "X" : 670.0, 
+          "Y" : 133.076923076923, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 6, 
+          "ZeroBasedIndex" : 5, 
+          "GlobalIndex" : 169, 
+          "ZeroBasedGlobalIndex" : 168, 
+          "X" : 670.0, 
+          "Y" : 163.846153846154, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 7, 
+          "ZeroBasedIndex" : 6, 
+          "GlobalIndex" : 170, 
+          "ZeroBasedGlobalIndex" : 169, 
+          "X" : 670.0, 
+          "Y" : 194.615384615385, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 8, 
+          "ZeroBasedIndex" : 7, 
+          "GlobalIndex" : 171, 
+          "ZeroBasedGlobalIndex" : 170, 
+          "X" : 685.384615384615, 
+          "Y" : 210.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 9, 
+          "ZeroBasedIndex" : 8, 
+          "GlobalIndex" : 172, 
+          "ZeroBasedGlobalIndex" : 171, 
+          "X" : 716.153846153846, 
+          "Y" : 210.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 10, 
+          "ZeroBasedIndex" : 9, 
+          "GlobalIndex" : 173, 
+          "ZeroBasedGlobalIndex" : 172, 
+          "X" : 746.923076923077, 
+          "Y" : 210.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 11, 
+          "ZeroBasedIndex" : 10, 
+          "GlobalIndex" : 174, 
+          "ZeroBasedGlobalIndex" : 173, 
+          "X" : 777.692307692308, 
+          "Y" : 210.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 12, 
+          "ZeroBasedIndex" : 11, 
+          "GlobalIndex" : 175, 
+          "ZeroBasedGlobalIndex" : 174, 
+          "X" : 808.461538461539, 
+          "Y" : 210.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 13, 
+          "ZeroBasedIndex" : 12, 
+          "GlobalIndex" : 176, 
+          "ZeroBasedGlobalIndex" : 175, 
+          "X" : 839.230769230769, 
+          "Y" : 210.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 14, 
+          "ZeroBasedIndex" : 13, 
+          "GlobalIndex" : 177, 
+          "ZeroBasedGlobalIndex" : 176, 
+          "X" : 870.0, 
+          "Y" : 210.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 15, 
+          "ZeroBasedIndex" : 14, 
+          "GlobalIndex" : 178, 
+          "ZeroBasedGlobalIndex" : 177, 
+          "X" : 870.0, 
+          "Y" : 179.230769230769, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 16, 
+          "ZeroBasedIndex" : 15, 
+          "GlobalIndex" : 179, 
+          "ZeroBasedGlobalIndex" : 178, 
+          "X" : 870.0, 
+          "Y" : 148.461538461539, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 17, 
+          "ZeroBasedIndex" : 16, 
+          "GlobalIndex" : 180, 
+          "ZeroBasedGlobalIndex" : 179, 
+          "X" : 870.0, 
+          "Y" : 117.692307692308, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 18, 
+          "ZeroBasedIndex" : 17, 
+          "GlobalIndex" : 181, 
+          "ZeroBasedGlobalIndex" : 180, 
+          "X" : 870.0, 
+          "Y" : 86.923076923077, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 19, 
+          "ZeroBasedIndex" : 18, 
+          "GlobalIndex" : 182, 
+          "ZeroBasedGlobalIndex" : 181, 
+          "X" : 870.0, 
+          "Y" : 56.153846153846, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 20, 
+          "ZeroBasedIndex" : 19, 
+          "GlobalIndex" : 183, 
+          "ZeroBasedGlobalIndex" : 182, 
+          "X" : 870.0, 
+          "Y" : 25.384615384615, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 21, 
+          "ZeroBasedIndex" : 20, 
+          "GlobalIndex" : 184, 
+          "ZeroBasedGlobalIndex" : 183, 
+          "X" : 854.615384615384, 
+          "Y" : 10.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 22, 
+          "ZeroBasedIndex" : 21, 
+          "GlobalIndex" : 185, 
+          "ZeroBasedGlobalIndex" : 184, 
+          "X" : 823.846153846154, 
+          "Y" : 10.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 23, 
+          "ZeroBasedIndex" : 22, 
+          "GlobalIndex" : 186, 
+          "ZeroBasedGlobalIndex" : 185, 
+          "X" : 793.076923076923, 
+          "Y" : 10.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 24, 
+          "ZeroBasedIndex" : 23, 
+          "GlobalIndex" : 187, 
+          "ZeroBasedGlobalIndex" : 186, 
+          "X" : 762.307692307693, 
+          "Y" : 10.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 25, 
+          "ZeroBasedIndex" : 24, 
+          "GlobalIndex" : 188, 
+          "ZeroBasedGlobalIndex" : 187, 
+          "X" : 731.538461538461, 
+          "Y" : 10.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 26, 
+          "ZeroBasedIndex" : 25, 
+          "GlobalIndex" : 189, 
+          "ZeroBasedGlobalIndex" : 188, 
+          "X" : 700.769230769231, 
+          "Y" : 10.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }
+      ]
+    }, 
+    {
+      "Index" : 8, 
+      "ZeroBasedIndex" : 7, 
+      "Points" : [
+        {
+          "Index" : 1, 
+          "ZeroBasedIndex" : 0, 
+          "GlobalIndex" : 190, 
+          "ZeroBasedGlobalIndex" : 189, 
+          "X" : 10.0, 
+          "Y" : 10.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 2, 
+          "ZeroBasedIndex" : 1, 
+          "GlobalIndex" : 191, 
+          "ZeroBasedGlobalIndex" : 190, 
+          "X" : 10.0, 
+          "Y" : 40.212765957447, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 3, 
+          "ZeroBasedIndex" : 2, 
+          "GlobalIndex" : 192, 
+          "ZeroBasedGlobalIndex" : 191, 
+          "X" : 10.0, 
+          "Y" : 70.425531914894, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 4, 
+          "ZeroBasedIndex" : 3, 
+          "GlobalIndex" : 193, 
+          "ZeroBasedGlobalIndex" : 192, 
+          "X" : 10.0, 
+          "Y" : 100.63829787234, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 5, 
+          "ZeroBasedIndex" : 4, 
+          "GlobalIndex" : 194, 
+          "ZeroBasedGlobalIndex" : 193, 
+          "X" : 10.851063829787, 
+          "Y" : 130.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 6, 
+          "ZeroBasedIndex" : 5, 
+          "GlobalIndex" : 195, 
+          "ZeroBasedGlobalIndex" : 194, 
+          "X" : 41.063829787234, 
+          "Y" : 130.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 7, 
+          "ZeroBasedIndex" : 6, 
+          "GlobalIndex" : 196, 
+          "ZeroBasedGlobalIndex" : 195, 
+          "X" : 71.276595744681, 
+          "Y" : 130.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 8, 
+          "ZeroBasedIndex" : 7, 
+          "GlobalIndex" : 197, 
+          "ZeroBasedGlobalIndex" : 196, 
+          "X" : 101.489361702128, 
+          "Y" : 130.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 9, 
+          "ZeroBasedIndex" : 8, 
+          "GlobalIndex" : 198, 
+          "ZeroBasedGlobalIndex" : 197, 
+          "X" : 131.702127659575, 
+          "Y" : 130.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 10, 
+          "ZeroBasedIndex" : 9, 
+          "GlobalIndex" : 199, 
+          "ZeroBasedGlobalIndex" : 198, 
+          "X" : 161.914893617021, 
+          "Y" : 130.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 11, 
+          "ZeroBasedIndex" : 10, 
+          "GlobalIndex" : 200, 
+          "ZeroBasedGlobalIndex" : 199, 
+          "X" : 192.127659574468, 
+          "Y" : 130.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 12, 
+          "ZeroBasedIndex" : 11, 
+          "GlobalIndex" : 201, 
+          "ZeroBasedGlobalIndex" : 200, 
+          "X" : 222.340425531915, 
+          "Y" : 130.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 13, 
+          "ZeroBasedIndex" : 12, 
+          "GlobalIndex" : 202, 
+          "ZeroBasedGlobalIndex" : 201, 
+          "X" : 252.553191489362, 
+          "Y" : 130.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 14, 
+          "ZeroBasedIndex" : 13, 
+          "GlobalIndex" : 203, 
+          "ZeroBasedGlobalIndex" : 202, 
+          "X" : 282.765957446809, 
+          "Y" : 130.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 15, 
+          "ZeroBasedIndex" : 14, 
+          "GlobalIndex" : 204, 
+          "ZeroBasedGlobalIndex" : 203, 
+          "X" : 312.978723404255, 
+          "Y" : 130.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 16, 
+          "ZeroBasedIndex" : 15, 
+          "GlobalIndex" : 205, 
+          "ZeroBasedGlobalIndex" : 204, 
+          "X" : 343.191489361702, 
+          "Y" : 130.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 17, 
+          "ZeroBasedIndex" : 16, 
+          "GlobalIndex" : 206, 
+          "ZeroBasedGlobalIndex" : 205, 
+          "X" : 373.404255319149, 
+          "Y" : 130.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 18, 
+          "ZeroBasedIndex" : 17, 
+          "GlobalIndex" : 207, 
+          "ZeroBasedGlobalIndex" : 206, 
+          "X" : 403.617021276596, 
+          "Y" : 130.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 19, 
+          "ZeroBasedIndex" : 18, 
+          "GlobalIndex" : 208, 
+          "ZeroBasedGlobalIndex" : 207, 
+          "X" : 433.829787234043, 
+          "Y" : 130.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 20, 
+          "ZeroBasedIndex" : 19, 
+          "GlobalIndex" : 209, 
+          "ZeroBasedGlobalIndex" : 208, 
+          "X" : 464.042553191489, 
+          "Y" : 130.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 21, 
+          "ZeroBasedIndex" : 20, 
+          "GlobalIndex" : 210, 
+          "ZeroBasedGlobalIndex" : 209, 
+          "X" : 494.255319148936, 
+          "Y" : 130.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 22, 
+          "ZeroBasedIndex" : 21, 
+          "GlobalIndex" : 211, 
+          "ZeroBasedGlobalIndex" : 210, 
+          "X" : 524.468085106383, 
+          "Y" : 130.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 23, 
+          "ZeroBasedIndex" : 22, 
+          "GlobalIndex" : 212, 
+          "ZeroBasedGlobalIndex" : 211, 
+          "X" : 554.68085106383, 
+          "Y" : 130.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 24, 
+          "ZeroBasedIndex" : 23, 
+          "GlobalIndex" : 213, 
+          "ZeroBasedGlobalIndex" : 212, 
+          "X" : 584.893617021277, 
+          "Y" : 130.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 25, 
+          "ZeroBasedIndex" : 24, 
+          "GlobalIndex" : 214, 
+          "ZeroBasedGlobalIndex" : 213, 
+          "X" : 600.0, 
+          "Y" : 114.893617021277, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 26, 
+          "ZeroBasedIndex" : 25, 
+          "GlobalIndex" : 215, 
+          "ZeroBasedGlobalIndex" : 214, 
+          "X" : 600.0, 
+          "Y" : 84.68085106383, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 27, 
+          "ZeroBasedIndex" : 26, 
+          "GlobalIndex" : 216, 
+          "ZeroBasedGlobalIndex" : 215, 
+          "X" : 600.0, 
+          "Y" : 54.468085106383, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 28, 
+          "ZeroBasedIndex" : 27, 
+          "GlobalIndex" : 217, 
+          "ZeroBasedGlobalIndex" : 216, 
+          "X" : 600.0, 
+          "Y" : 24.255319148936, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 29, 
+          "ZeroBasedIndex" : 28, 
+          "GlobalIndex" : 218, 
+          "ZeroBasedGlobalIndex" : 217, 
+          "X" : 584.042553191489, 
+          "Y" : 10.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 30, 
+          "ZeroBasedIndex" : 29, 
+          "GlobalIndex" : 219, 
+          "ZeroBasedGlobalIndex" : 218, 
+          "X" : 553.829787234043, 
+          "Y" : 10.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 31, 
+          "ZeroBasedIndex" : 30, 
+          "GlobalIndex" : 220, 
+          "ZeroBasedGlobalIndex" : 219, 
+          "X" : 523.617021276596, 
+          "Y" : 10.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 32, 
+          "ZeroBasedIndex" : 31, 
+          "GlobalIndex" : 221, 
+          "ZeroBasedGlobalIndex" : 220, 
+          "X" : 493.404255319149, 
+          "Y" : 10.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 33, 
+          "ZeroBasedIndex" : 32, 
+          "GlobalIndex" : 222, 
+          "ZeroBasedGlobalIndex" : 221, 
+          "X" : 463.191489361702, 
+          "Y" : 10.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 34, 
+          "ZeroBasedIndex" : 33, 
+          "GlobalIndex" : 223, 
+          "ZeroBasedGlobalIndex" : 222, 
+          "X" : 432.978723404255, 
+          "Y" : 10.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 35, 
+          "ZeroBasedIndex" : 34, 
+          "GlobalIndex" : 224, 
+          "ZeroBasedGlobalIndex" : 223, 
+          "X" : 402.765957446809, 
+          "Y" : 10.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 36, 
+          "ZeroBasedIndex" : 35, 
+          "GlobalIndex" : 225, 
+          "ZeroBasedGlobalIndex" : 224, 
+          "X" : 372.553191489362, 
+          "Y" : 10.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 37, 
+          "ZeroBasedIndex" : 36, 
+          "GlobalIndex" : 226, 
+          "ZeroBasedGlobalIndex" : 225, 
+          "X" : 342.340425531915, 
+          "Y" : 10.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 38, 
+          "ZeroBasedIndex" : 37, 
+          "GlobalIndex" : 227, 
+          "ZeroBasedGlobalIndex" : 226, 
+          "X" : 312.127659574468, 
+          "Y" : 10.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 39, 
+          "ZeroBasedIndex" : 38, 
+          "GlobalIndex" : 228, 
+          "ZeroBasedGlobalIndex" : 227, 
+          "X" : 281.914893617021, 
+          "Y" : 10.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 40, 
+          "ZeroBasedIndex" : 39, 
+          "GlobalIndex" : 229, 
+          "ZeroBasedGlobalIndex" : 228, 
+          "X" : 251.702127659574, 
+          "Y" : 10.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 41, 
+          "ZeroBasedIndex" : 40, 
+          "GlobalIndex" : 230, 
+          "ZeroBasedGlobalIndex" : 229, 
+          "X" : 221.489361702128, 
+          "Y" : 10.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 42, 
+          "ZeroBasedIndex" : 41, 
+          "GlobalIndex" : 231, 
+          "ZeroBasedGlobalIndex" : 230, 
+          "X" : 191.276595744681, 
+          "Y" : 10.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 43, 
+          "ZeroBasedIndex" : 42, 
+          "GlobalIndex" : 232, 
+          "ZeroBasedGlobalIndex" : 231, 
+          "X" : 161.063829787234, 
+          "Y" : 10.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 44, 
+          "ZeroBasedIndex" : 43, 
+          "GlobalIndex" : 233, 
+          "ZeroBasedGlobalIndex" : 232, 
+          "X" : 130.851063829787, 
+          "Y" : 10.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 45, 
+          "ZeroBasedIndex" : 44, 
+          "GlobalIndex" : 234, 
+          "ZeroBasedGlobalIndex" : 233, 
+          "X" : 100.638297872341, 
+          "Y" : 10.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 46, 
+          "ZeroBasedIndex" : 45, 
+          "GlobalIndex" : 235, 
+          "ZeroBasedGlobalIndex" : 234, 
+          "X" : 70.425531914894, 
+          "Y" : 10.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 47, 
+          "ZeroBasedIndex" : 46, 
+          "GlobalIndex" : 236, 
+          "ZeroBasedGlobalIndex" : 235, 
+          "X" : 40.212765957447, 
+          "Y" : 10.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }
+      ]
+    }, 
+    {
+      "Index" : 9, 
+      "ZeroBasedIndex" : 8, 
+      "Points" : [
+        {
+          "Index" : 1, 
+          "ZeroBasedIndex" : 0, 
+          "GlobalIndex" : 237, 
+          "ZeroBasedGlobalIndex" : 236, 
+          "X" : 880.0, 
+          "Y" : 210.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 2, 
+          "ZeroBasedIndex" : 1, 
+          "GlobalIndex" : 238, 
+          "ZeroBasedGlobalIndex" : 237, 
+          "X" : 911.25, 
+          "Y" : 210.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 3, 
+          "ZeroBasedIndex" : 2, 
+          "GlobalIndex" : 239, 
+          "ZeroBasedGlobalIndex" : 238, 
+          "X" : 930.0, 
+          "Y" : 197.5, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 4, 
+          "ZeroBasedIndex" : 3, 
+          "GlobalIndex" : 240, 
+          "ZeroBasedGlobalIndex" : 239, 
+          "X" : 930.0, 
+          "Y" : 166.25, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 5, 
+          "ZeroBasedIndex" : 4, 
+          "GlobalIndex" : 241, 
+          "ZeroBasedGlobalIndex" : 240, 
+          "X" : 930.0, 
+          "Y" : 135.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 6, 
+          "ZeroBasedIndex" : 5, 
+          "GlobalIndex" : 242, 
+          "ZeroBasedGlobalIndex" : 241, 
+          "X" : 930.0, 
+          "Y" : 103.75, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 7, 
+          "ZeroBasedIndex" : 6, 
+          "GlobalIndex" : 243, 
+          "ZeroBasedGlobalIndex" : 242, 
+          "X" : 930.0, 
+          "Y" : 72.5, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 8, 
+          "ZeroBasedIndex" : 7, 
+          "GlobalIndex" : 244, 
+          "ZeroBasedGlobalIndex" : 243, 
+          "X" : 930.0, 
+          "Y" : 41.25, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 9, 
+          "ZeroBasedIndex" : 8, 
+          "GlobalIndex" : 245, 
+          "ZeroBasedGlobalIndex" : 244, 
+          "X" : 930.0, 
+          "Y" : 10.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 10, 
+          "ZeroBasedIndex" : 9, 
+          "GlobalIndex" : 246, 
+          "ZeroBasedGlobalIndex" : 245, 
+          "X" : 898.75, 
+          "Y" : 10.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 11, 
+          "ZeroBasedIndex" : 10, 
+          "GlobalIndex" : 247, 
+          "ZeroBasedGlobalIndex" : 246, 
+          "X" : 880.0, 
+          "Y" : 22.5, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 12, 
+          "ZeroBasedIndex" : 11, 
+          "GlobalIndex" : 248, 
+          "ZeroBasedGlobalIndex" : 247, 
+          "X" : 880.0, 
+          "Y" : 53.75, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 13, 
+          "ZeroBasedIndex" : 12, 
+          "GlobalIndex" : 249, 
+          "ZeroBasedGlobalIndex" : 248, 
+          "X" : 880.0, 
+          "Y" : 85.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 14, 
+          "ZeroBasedIndex" : 13, 
+          "GlobalIndex" : 250, 
+          "ZeroBasedGlobalIndex" : 249, 
+          "X" : 880.0, 
+          "Y" : 116.25, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 15, 
+          "ZeroBasedIndex" : 14, 
+          "GlobalIndex" : 251, 
+          "ZeroBasedGlobalIndex" : 250, 
+          "X" : 880.0, 
+          "Y" : 147.5, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 16, 
+          "ZeroBasedIndex" : 15, 
+          "GlobalIndex" : 252, 
+          "ZeroBasedGlobalIndex" : 251, 
+          "X" : 880.0, 
+          "Y" : 178.75, 
+          "UseCircuitAndFinishCutPoint" : false
+        }
+      ]
+    }, 
+    {
+      "Index" : 10, 
+      "ZeroBasedIndex" : 9, 
+      "Points" : [
+        {
+          "Index" : 1, 
+          "ZeroBasedIndex" : 0, 
+          "GlobalIndex" : 253, 
+          "ZeroBasedGlobalIndex" : 252, 
+          "X" : 610.0, 
+          "Y" : 210.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 2, 
+          "ZeroBasedIndex" : 1, 
+          "GlobalIndex" : 254, 
+          "ZeroBasedGlobalIndex" : 253, 
+          "X" : 641.25, 
+          "Y" : 210.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 3, 
+          "ZeroBasedIndex" : 2, 
+          "GlobalIndex" : 255, 
+          "ZeroBasedGlobalIndex" : 254, 
+          "X" : 660.0, 
+          "Y" : 197.5, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 4, 
+          "ZeroBasedIndex" : 3, 
+          "GlobalIndex" : 256, 
+          "ZeroBasedGlobalIndex" : 255, 
+          "X" : 660.0, 
+          "Y" : 166.25, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 5, 
+          "ZeroBasedIndex" : 4, 
+          "GlobalIndex" : 257, 
+          "ZeroBasedGlobalIndex" : 256, 
+          "X" : 660.0, 
+          "Y" : 135.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 6, 
+          "ZeroBasedIndex" : 5, 
+          "GlobalIndex" : 258, 
+          "ZeroBasedGlobalIndex" : 257, 
+          "X" : 660.0, 
+          "Y" : 103.75, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 7, 
+          "ZeroBasedIndex" : 6, 
+          "GlobalIndex" : 259, 
+          "ZeroBasedGlobalIndex" : 258, 
+          "X" : 660.0, 
+          "Y" : 72.5, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 8, 
+          "ZeroBasedIndex" : 7, 
+          "GlobalIndex" : 260, 
+          "ZeroBasedGlobalIndex" : 259, 
+          "X" : 660.0, 
+          "Y" : 41.25, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 9, 
+          "ZeroBasedIndex" : 8, 
+          "GlobalIndex" : 261, 
+          "ZeroBasedGlobalIndex" : 260, 
+          "X" : 660.0, 
+          "Y" : 10.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 10, 
+          "ZeroBasedIndex" : 9, 
+          "GlobalIndex" : 262, 
+          "ZeroBasedGlobalIndex" : 261, 
+          "X" : 628.75, 
+          "Y" : 10.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 11, 
+          "ZeroBasedIndex" : 10, 
+          "GlobalIndex" : 263, 
+          "ZeroBasedGlobalIndex" : 262, 
+          "X" : 610.0, 
+          "Y" : 22.5, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 12, 
+          "ZeroBasedIndex" : 11, 
+          "GlobalIndex" : 264, 
+          "ZeroBasedGlobalIndex" : 263, 
+          "X" : 610.0, 
+          "Y" : 53.75, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 13, 
+          "ZeroBasedIndex" : 12, 
+          "GlobalIndex" : 265, 
+          "ZeroBasedGlobalIndex" : 264, 
+          "X" : 610.0, 
+          "Y" : 85.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 14, 
+          "ZeroBasedIndex" : 13, 
+          "GlobalIndex" : 266, 
+          "ZeroBasedGlobalIndex" : 265, 
+          "X" : 610.0, 
+          "Y" : 116.25, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 15, 
+          "ZeroBasedIndex" : 14, 
+          "GlobalIndex" : 267, 
+          "ZeroBasedGlobalIndex" : 266, 
+          "X" : 610.0, 
+          "Y" : 147.5, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 16, 
+          "ZeroBasedIndex" : 15, 
+          "GlobalIndex" : 268, 
+          "ZeroBasedGlobalIndex" : 267, 
+          "X" : 610.0, 
+          "Y" : 178.75, 
+          "UseCircuitAndFinishCutPoint" : false
+        }
+      ]
+    }, 
+    {
+      "Index" : 11, 
+      "ZeroBasedIndex" : 10, 
+      "Points" : [
+        {
+          "Index" : 1, 
+          "ZeroBasedIndex" : 0, 
+          "GlobalIndex" : 269, 
+          "ZeroBasedGlobalIndex" : 268, 
+          "X" : 526.3095703125, 
+          "Y" : 492.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 2, 
+          "ZeroBasedIndex" : 1, 
+          "GlobalIndex" : 270, 
+          "ZeroBasedGlobalIndex" : 269, 
+          "X" : 526.3095703125, 
+          "Y" : 522.864547730063, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 3, 
+          "ZeroBasedIndex" : 2, 
+          "GlobalIndex" : 271, 
+          "ZeroBasedGlobalIndex" : 270, 
+          "X" : 526.3095703125, 
+          "Y" : 553.729095460126, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 4, 
+          "ZeroBasedIndex" : 3, 
+          "GlobalIndex" : 272, 
+          "ZeroBasedGlobalIndex" : 271, 
+          "X" : 545.690010067092, 
+          "Y" : 574.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 5, 
+          "ZeroBasedIndex" : 4, 
+          "GlobalIndex" : 273, 
+          "ZeroBasedGlobalIndex" : 272, 
+          "X" : 576.554557797155, 
+          "Y" : 574.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 6, 
+          "ZeroBasedIndex" : 5, 
+          "GlobalIndex" : 274, 
+          "ZeroBasedGlobalIndex" : 273, 
+          "X" : 607.419105527218, 
+          "Y" : 574.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 7, 
+          "ZeroBasedIndex" : 6, 
+          "GlobalIndex" : 275, 
+          "ZeroBasedGlobalIndex" : 274, 
+          "X" : 638.28365325728, 
+          "Y" : 574.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 8, 
+          "ZeroBasedIndex" : 7, 
+          "GlobalIndex" : 276, 
+          "ZeroBasedGlobalIndex" : 275, 
+          "X" : 669.148200987343, 
+          "Y" : 574.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 9, 
+          "ZeroBasedIndex" : 8, 
+          "GlobalIndex" : 277, 
+          "ZeroBasedGlobalIndex" : 276, 
+          "X" : 700.012748717406, 
+          "Y" : 574.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 10, 
+          "ZeroBasedIndex" : 9, 
+          "GlobalIndex" : 278, 
+          "ZeroBasedGlobalIndex" : 277, 
+          "X" : 730.877296447469, 
+          "Y" : 574.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 11, 
+          "ZeroBasedIndex" : 10, 
+          "GlobalIndex" : 279, 
+          "ZeroBasedGlobalIndex" : 278, 
+          "X" : 746.3095703125, 
+          "Y" : 549.780929570565, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 12, 
+          "ZeroBasedIndex" : 11, 
+          "GlobalIndex" : 280, 
+          "ZeroBasedGlobalIndex" : 279, 
+          "X" : 746.3095703125, 
+          "Y" : 518.916381840502, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 13, 
+          "ZeroBasedIndex" : 12, 
+          "GlobalIndex" : 281, 
+          "ZeroBasedGlobalIndex" : 280, 
+          "X" : 742.361404422939, 
+          "Y" : 492.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 14, 
+          "ZeroBasedIndex" : 13, 
+          "GlobalIndex" : 282, 
+          "ZeroBasedGlobalIndex" : 281, 
+          "X" : 711.496856692877, 
+          "Y" : 492.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 15, 
+          "ZeroBasedIndex" : 14, 
+          "GlobalIndex" : 283, 
+          "ZeroBasedGlobalIndex" : 282, 
+          "X" : 680.632308962814, 
+          "Y" : 492.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 16, 
+          "ZeroBasedIndex" : 15, 
+          "GlobalIndex" : 284, 
+          "ZeroBasedGlobalIndex" : 283, 
+          "X" : 649.767761232751, 
+          "Y" : 492.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 17, 
+          "ZeroBasedIndex" : 16, 
+          "GlobalIndex" : 285, 
+          "ZeroBasedGlobalIndex" : 284, 
+          "X" : 618.903213502688, 
+          "Y" : 492.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 18, 
+          "ZeroBasedIndex" : 17, 
+          "GlobalIndex" : 286, 
+          "ZeroBasedGlobalIndex" : 285, 
+          "X" : 588.038665772626, 
+          "Y" : 492.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 19, 
+          "ZeroBasedIndex" : 18, 
+          "GlobalIndex" : 287, 
+          "ZeroBasedGlobalIndex" : 286, 
+          "X" : 557.174118042563, 
+          "Y" : 492.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }
+      ]
+    }, 
+    {
+      "Index" : 12, 
+      "ZeroBasedIndex" : 11, 
+      "Points" : [
+        {
+          "Index" : 1, 
+          "ZeroBasedIndex" : 0, 
+          "GlobalIndex" : 288, 
+          "ZeroBasedGlobalIndex" : 287, 
+          "X" : 30.0, 
+          "Y" : 430.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 2, 
+          "ZeroBasedIndex" : 1, 
+          "GlobalIndex" : 289, 
+          "ZeroBasedGlobalIndex" : 288, 
+          "X" : 10.0, 
+          "Y" : 440.667261889578, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 3, 
+          "ZeroBasedIndex" : 2, 
+          "GlobalIndex" : 290, 
+          "ZeroBasedGlobalIndex" : 289, 
+          "X" : 10.0, 
+          "Y" : 471.334523779156, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 4, 
+          "ZeroBasedIndex" : 3, 
+          "GlobalIndex" : 291, 
+          "ZeroBasedGlobalIndex" : 290, 
+          "X" : 10.0, 
+          "Y" : 502.001785668734, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 5, 
+          "ZeroBasedIndex" : 4, 
+          "GlobalIndex" : 292, 
+          "ZeroBasedGlobalIndex" : 291, 
+          "X" : 10.0, 
+          "Y" : 532.669047558312, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 6, 
+          "ZeroBasedIndex" : 5, 
+          "GlobalIndex" : 293, 
+          "ZeroBasedGlobalIndex" : 292, 
+          "X" : 10.944913472367, 
+          "Y" : 562.944913472367, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 7, 
+          "ZeroBasedIndex" : 6, 
+          "GlobalIndex" : 294, 
+          "ZeroBasedGlobalIndex" : 293, 
+          "X" : 37.861435713737, 
+          "Y" : 572.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 8, 
+          "ZeroBasedIndex" : 7, 
+          "GlobalIndex" : 295, 
+          "ZeroBasedGlobalIndex" : 294, 
+          "X" : 68.528697603315, 
+          "Y" : 572.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 9, 
+          "ZeroBasedIndex" : 8, 
+          "GlobalIndex" : 296, 
+          "ZeroBasedGlobalIndex" : 295, 
+          "X" : 99.195959492893, 
+          "Y" : 572.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 10, 
+          "ZeroBasedIndex" : 9, 
+          "GlobalIndex" : 297, 
+          "ZeroBasedGlobalIndex" : 296, 
+          "X" : 129.863221382471, 
+          "Y" : 572.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 11, 
+          "ZeroBasedIndex" : 10, 
+          "GlobalIndex" : 298, 
+          "ZeroBasedGlobalIndex" : 297, 
+          "X" : 152.0, 
+          "Y" : 563.46951672795, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 12, 
+          "ZeroBasedIndex" : 11, 
+          "GlobalIndex" : 299, 
+          "ZeroBasedGlobalIndex" : 298, 
+          "X" : 138.425144212722, 
+          "Y" : 538.425144212722, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 13, 
+          "ZeroBasedIndex" : 12, 
+          "GlobalIndex" : 300, 
+          "ZeroBasedGlobalIndex" : 299, 
+          "X" : 116.740115370178, 
+          "Y" : 516.740115370178, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 14, 
+          "ZeroBasedIndex" : 13, 
+          "GlobalIndex" : 301, 
+          "ZeroBasedGlobalIndex" : 300, 
+          "X" : 95.055086527633, 
+          "Y" : 495.055086527633, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 15, 
+          "ZeroBasedIndex" : 14, 
+          "GlobalIndex" : 302, 
+          "ZeroBasedGlobalIndex" : 301, 
+          "X" : 73.370057685089, 
+          "Y" : 473.370057685089, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 16, 
+          "ZeroBasedIndex" : 15, 
+          "GlobalIndex" : 303, 
+          "ZeroBasedGlobalIndex" : 302, 
+          "X" : 51.685028842544, 
+          "Y" : 451.685028842545, 
+          "UseCircuitAndFinishCutPoint" : false
+        }
+      ]
+    }, 
+    {
+      "Index" : 13, 
+      "ZeroBasedIndex" : 12, 
+      "Points" : [
+        {
+          "Index" : 1, 
+          "ZeroBasedIndex" : 0, 
+          "GlobalIndex" : 304, 
+          "ZeroBasedGlobalIndex" : 303, 
+          "X" : 186.309600830078, 
+          "Y" : 572.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 2, 
+          "ZeroBasedIndex" : 1, 
+          "GlobalIndex" : 305, 
+          "ZeroBasedGlobalIndex" : 304, 
+          "X" : 206.309600830078, 
+          "Y" : 561.332738110422, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 3, 
+          "ZeroBasedIndex" : 2, 
+          "GlobalIndex" : 306, 
+          "ZeroBasedGlobalIndex" : 305, 
+          "X" : 206.309600830078, 
+          "Y" : 530.665476220844, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 4, 
+          "ZeroBasedIndex" : 3, 
+          "GlobalIndex" : 307, 
+          "ZeroBasedGlobalIndex" : 306, 
+          "X" : 206.309600830078, 
+          "Y" : 499.998214331266, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 5, 
+          "ZeroBasedIndex" : 4, 
+          "GlobalIndex" : 308, 
+          "ZeroBasedGlobalIndex" : 307, 
+          "X" : 206.309600830078, 
+          "Y" : 469.330952441688, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 6, 
+          "ZeroBasedIndex" : 5, 
+          "GlobalIndex" : 309, 
+          "ZeroBasedGlobalIndex" : 308, 
+          "X" : 205.364687357711, 
+          "Y" : 439.055086527633, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 7, 
+          "ZeroBasedIndex" : 6, 
+          "GlobalIndex" : 310, 
+          "ZeroBasedGlobalIndex" : 309, 
+          "X" : 178.448165116341, 
+          "Y" : 430.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 8, 
+          "ZeroBasedIndex" : 7, 
+          "GlobalIndex" : 311, 
+          "ZeroBasedGlobalIndex" : 310, 
+          "X" : 147.780903226763, 
+          "Y" : 430.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 9, 
+          "ZeroBasedIndex" : 8, 
+          "GlobalIndex" : 312, 
+          "ZeroBasedGlobalIndex" : 311, 
+          "X" : 117.113641337185, 
+          "Y" : 430.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 10, 
+          "ZeroBasedIndex" : 9, 
+          "GlobalIndex" : 313, 
+          "ZeroBasedGlobalIndex" : 312, 
+          "X" : 86.446379447607, 
+          "Y" : 430.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 11, 
+          "ZeroBasedIndex" : 10, 
+          "GlobalIndex" : 314, 
+          "ZeroBasedGlobalIndex" : 313, 
+          "X" : 64.309600830078, 
+          "Y" : 438.53048327205, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 12, 
+          "ZeroBasedIndex" : 11, 
+          "GlobalIndex" : 315, 
+          "ZeroBasedGlobalIndex" : 314, 
+          "X" : 77.884456617356, 
+          "Y" : 463.574855787278, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 13, 
+          "ZeroBasedIndex" : 12, 
+          "GlobalIndex" : 316, 
+          "ZeroBasedGlobalIndex" : 315, 
+          "X" : 99.569485459901, 
+          "Y" : 485.259884629823, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 14, 
+          "ZeroBasedIndex" : 13, 
+          "GlobalIndex" : 317, 
+          "ZeroBasedGlobalIndex" : 316, 
+          "X" : 121.254514302445, 
+          "Y" : 506.944913472367, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 15, 
+          "ZeroBasedIndex" : 14, 
+          "GlobalIndex" : 318, 
+          "ZeroBasedGlobalIndex" : 317, 
+          "X" : 142.939543144989, 
+          "Y" : 528.629942314911, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 16, 
+          "ZeroBasedIndex" : 15, 
+          "GlobalIndex" : 319, 
+          "ZeroBasedGlobalIndex" : 318, 
+          "X" : 164.624571987534, 
+          "Y" : 550.314971157456, 
+          "UseCircuitAndFinishCutPoint" : false
+        }
+      ]
+    }, 
+    {
+      "Index" : 14, 
+      "ZeroBasedIndex" : 13, 
+      "Points" : [
+        {
+          "Index" : 1, 
+          "ZeroBasedIndex" : 0, 
+          "GlobalIndex" : 320, 
+          "ZeroBasedGlobalIndex" : 319, 
+          "X" : 776.3095703125, 
+          "Y" : 430.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 2, 
+          "ZeroBasedIndex" : 1, 
+          "GlobalIndex" : 321, 
+          "ZeroBasedGlobalIndex" : 320, 
+          "X" : 756.3095703125, 
+          "Y" : 440.667261889578, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 3, 
+          "ZeroBasedIndex" : 2, 
+          "GlobalIndex" : 322, 
+          "ZeroBasedGlobalIndex" : 321, 
+          "X" : 756.3095703125, 
+          "Y" : 471.334523779156, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 4, 
+          "ZeroBasedIndex" : 3, 
+          "GlobalIndex" : 323, 
+          "ZeroBasedGlobalIndex" : 322, 
+          "X" : 756.3095703125, 
+          "Y" : 502.001785668734, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 5, 
+          "ZeroBasedIndex" : 4, 
+          "GlobalIndex" : 324, 
+          "ZeroBasedGlobalIndex" : 323, 
+          "X" : 756.3095703125, 
+          "Y" : 532.669047558312, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 6, 
+          "ZeroBasedIndex" : 5, 
+          "GlobalIndex" : 325, 
+          "ZeroBasedGlobalIndex" : 324, 
+          "X" : 757.254483784866, 
+          "Y" : 562.944913472367, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 7, 
+          "ZeroBasedIndex" : 6, 
+          "GlobalIndex" : 326, 
+          "ZeroBasedGlobalIndex" : 325, 
+          "X" : 784.171006026237, 
+          "Y" : 572.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 8, 
+          "ZeroBasedIndex" : 7, 
+          "GlobalIndex" : 327, 
+          "ZeroBasedGlobalIndex" : 326, 
+          "X" : 814.838267915815, 
+          "Y" : 572.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 9, 
+          "ZeroBasedIndex" : 8, 
+          "GlobalIndex" : 328, 
+          "ZeroBasedGlobalIndex" : 327, 
+          "X" : 845.505529805394, 
+          "Y" : 572.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 10, 
+          "ZeroBasedIndex" : 9, 
+          "GlobalIndex" : 329, 
+          "ZeroBasedGlobalIndex" : 328, 
+          "X" : 876.172791694971, 
+          "Y" : 572.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 11, 
+          "ZeroBasedIndex" : 10, 
+          "GlobalIndex" : 330, 
+          "ZeroBasedGlobalIndex" : 329, 
+          "X" : 898.3095703125, 
+          "Y" : 563.46951672795, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 12, 
+          "ZeroBasedIndex" : 11, 
+          "GlobalIndex" : 331, 
+          "ZeroBasedGlobalIndex" : 330, 
+          "X" : 884.734714525222, 
+          "Y" : 538.425144212722, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 13, 
+          "ZeroBasedIndex" : 12, 
+          "GlobalIndex" : 332, 
+          "ZeroBasedGlobalIndex" : 331, 
+          "X" : 863.049685682678, 
+          "Y" : 516.740115370178, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 14, 
+          "ZeroBasedIndex" : 13, 
+          "GlobalIndex" : 333, 
+          "ZeroBasedGlobalIndex" : 332, 
+          "X" : 841.364656840133, 
+          "Y" : 495.055086527633, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 15, 
+          "ZeroBasedIndex" : 14, 
+          "GlobalIndex" : 334, 
+          "ZeroBasedGlobalIndex" : 333, 
+          "X" : 819.679627997589, 
+          "Y" : 473.370057685089, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 16, 
+          "ZeroBasedIndex" : 15, 
+          "GlobalIndex" : 335, 
+          "ZeroBasedGlobalIndex" : 334, 
+          "X" : 797.994599155044, 
+          "Y" : 451.685028842545, 
+          "UseCircuitAndFinishCutPoint" : false
+        }
+      ]
+    }, 
+    {
+      "Index" : 15, 
+      "ZeroBasedIndex" : 14, 
+      "Points" : [
+        {
+          "Index" : 1, 
+          "ZeroBasedIndex" : 0, 
+          "GlobalIndex" : 336, 
+          "ZeroBasedGlobalIndex" : 335, 
+          "X" : 932.619201660156, 
+          "Y" : 572.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 2, 
+          "ZeroBasedIndex" : 1, 
+          "GlobalIndex" : 337, 
+          "ZeroBasedGlobalIndex" : 336, 
+          "X" : 952.619201660156, 
+          "Y" : 561.332738110422, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 3, 
+          "ZeroBasedIndex" : 2, 
+          "GlobalIndex" : 338, 
+          "ZeroBasedGlobalIndex" : 337, 
+          "X" : 952.619201660156, 
+          "Y" : 530.665476220844, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 4, 
+          "ZeroBasedIndex" : 3, 
+          "GlobalIndex" : 339, 
+          "ZeroBasedGlobalIndex" : 338, 
+          "X" : 952.619201660156, 
+          "Y" : 499.998214331266, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 5, 
+          "ZeroBasedIndex" : 4, 
+          "GlobalIndex" : 340, 
+          "ZeroBasedGlobalIndex" : 339, 
+          "X" : 952.619201660156, 
+          "Y" : 469.330952441688, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 6, 
+          "ZeroBasedIndex" : 5, 
+          "GlobalIndex" : 341, 
+          "ZeroBasedGlobalIndex" : 340, 
+          "X" : 951.67428818779, 
+          "Y" : 439.055086527633, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 7, 
+          "ZeroBasedIndex" : 6, 
+          "GlobalIndex" : 342, 
+          "ZeroBasedGlobalIndex" : 341, 
+          "X" : 924.757765946419, 
+          "Y" : 430.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 8, 
+          "ZeroBasedIndex" : 7, 
+          "GlobalIndex" : 343, 
+          "ZeroBasedGlobalIndex" : 342, 
+          "X" : 894.090504056841, 
+          "Y" : 430.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 9, 
+          "ZeroBasedIndex" : 8, 
+          "GlobalIndex" : 344, 
+          "ZeroBasedGlobalIndex" : 343, 
+          "X" : 863.423242167263, 
+          "Y" : 430.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 10, 
+          "ZeroBasedIndex" : 9, 
+          "GlobalIndex" : 345, 
+          "ZeroBasedGlobalIndex" : 344, 
+          "X" : 832.755980277685, 
+          "Y" : 430.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 11, 
+          "ZeroBasedIndex" : 10, 
+          "GlobalIndex" : 346, 
+          "ZeroBasedGlobalIndex" : 345, 
+          "X" : 810.619201660156, 
+          "Y" : 438.53048327205, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 12, 
+          "ZeroBasedIndex" : 11, 
+          "GlobalIndex" : 347, 
+          "ZeroBasedGlobalIndex" : 346, 
+          "X" : 824.194057447434, 
+          "Y" : 463.574855787278, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 13, 
+          "ZeroBasedIndex" : 12, 
+          "GlobalIndex" : 348, 
+          "ZeroBasedGlobalIndex" : 347, 
+          "X" : 845.879086289979, 
+          "Y" : 485.259884629823, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 14, 
+          "ZeroBasedIndex" : 13, 
+          "GlobalIndex" : 349, 
+          "ZeroBasedGlobalIndex" : 348, 
+          "X" : 867.564115132523, 
+          "Y" : 506.944913472367, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 15, 
+          "ZeroBasedIndex" : 14, 
+          "GlobalIndex" : 350, 
+          "ZeroBasedGlobalIndex" : 349, 
+          "X" : 889.249143975068, 
+          "Y" : 528.629942314911, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 16, 
+          "ZeroBasedIndex" : 15, 
+          "GlobalIndex" : 351, 
+          "ZeroBasedGlobalIndex" : 350, 
+          "X" : 910.934172817612, 
+          "Y" : 550.314971157456, 
+          "UseCircuitAndFinishCutPoint" : false
+        }
+      ]
+    }, 
+    {
+      "Index" : 16, 
+      "ZeroBasedIndex" : 15, 
+      "Points" : [
+        {
+          "Index" : 1, 
+          "ZeroBasedIndex" : 0, 
+          "GlobalIndex" : 352, 
+          "ZeroBasedGlobalIndex" : 351, 
+          "X" : 940.0, 
+          "Y" : 210.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 2, 
+          "ZeroBasedIndex" : 1, 
+          "GlobalIndex" : 353, 
+          "ZeroBasedGlobalIndex" : 352, 
+          "X" : 971.25, 
+          "Y" : 210.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 3, 
+          "ZeroBasedIndex" : 2, 
+          "GlobalIndex" : 354, 
+          "ZeroBasedGlobalIndex" : 353, 
+          "X" : 990.0, 
+          "Y" : 197.5, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 4, 
+          "ZeroBasedIndex" : 3, 
+          "GlobalIndex" : 355, 
+          "ZeroBasedGlobalIndex" : 354, 
+          "X" : 990.0, 
+          "Y" : 166.25, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 5, 
+          "ZeroBasedIndex" : 4, 
+          "GlobalIndex" : 356, 
+          "ZeroBasedGlobalIndex" : 355, 
+          "X" : 990.0, 
+          "Y" : 135.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 6, 
+          "ZeroBasedIndex" : 5, 
+          "GlobalIndex" : 357, 
+          "ZeroBasedGlobalIndex" : 356, 
+          "X" : 990.0, 
+          "Y" : 103.75, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 7, 
+          "ZeroBasedIndex" : 6, 
+          "GlobalIndex" : 358, 
+          "ZeroBasedGlobalIndex" : 357, 
+          "X" : 990.0, 
+          "Y" : 72.5, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 8, 
+          "ZeroBasedIndex" : 7, 
+          "GlobalIndex" : 359, 
+          "ZeroBasedGlobalIndex" : 358, 
+          "X" : 990.0, 
+          "Y" : 41.25, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 9, 
+          "ZeroBasedIndex" : 8, 
+          "GlobalIndex" : 360, 
+          "ZeroBasedGlobalIndex" : 359, 
+          "X" : 990.0, 
+          "Y" : 10.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 10, 
+          "ZeroBasedIndex" : 9, 
+          "GlobalIndex" : 361, 
+          "ZeroBasedGlobalIndex" : 360, 
+          "X" : 958.75, 
+          "Y" : 10.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 11, 
+          "ZeroBasedIndex" : 10, 
+          "GlobalIndex" : 362, 
+          "ZeroBasedGlobalIndex" : 361, 
+          "X" : 940.0, 
+          "Y" : 22.5, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 12, 
+          "ZeroBasedIndex" : 11, 
+          "GlobalIndex" : 363, 
+          "ZeroBasedGlobalIndex" : 362, 
+          "X" : 940.0, 
+          "Y" : 53.75, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 13, 
+          "ZeroBasedIndex" : 12, 
+          "GlobalIndex" : 364, 
+          "ZeroBasedGlobalIndex" : 363, 
+          "X" : 940.0, 
+          "Y" : 85.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 14, 
+          "ZeroBasedIndex" : 13, 
+          "GlobalIndex" : 365, 
+          "ZeroBasedGlobalIndex" : 364, 
+          "X" : 940.0, 
+          "Y" : 116.25, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 15, 
+          "ZeroBasedIndex" : 14, 
+          "GlobalIndex" : 366, 
+          "ZeroBasedGlobalIndex" : 365, 
+          "X" : 940.0, 
+          "Y" : 147.5, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 16, 
+          "ZeroBasedIndex" : 15, 
+          "GlobalIndex" : 367, 
+          "ZeroBasedGlobalIndex" : 366, 
+          "X" : 940.0, 
+          "Y" : 178.75, 
+          "UseCircuitAndFinishCutPoint" : false
+        }
+      ]
+    }, 
+    {
+      "Index" : 17, 
+      "ZeroBasedIndex" : 16, 
+      "Points" : [
+        {
+          "Index" : 1, 
+          "ZeroBasedIndex" : 0, 
+          "GlobalIndex" : 368, 
+          "ZeroBasedGlobalIndex" : 367, 
+          "X" : 526.3095703125, 
+          "Y" : 400.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 2, 
+          "ZeroBasedIndex" : 1, 
+          "GlobalIndex" : 369, 
+          "ZeroBasedGlobalIndex" : 368, 
+          "X" : 526.3095703125, 
+          "Y" : 430.864547730063, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 3, 
+          "ZeroBasedIndex" : 2, 
+          "GlobalIndex" : 370, 
+          "ZeroBasedGlobalIndex" : 369, 
+          "X" : 526.3095703125, 
+          "Y" : 461.729095460126, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 4, 
+          "ZeroBasedIndex" : 3, 
+          "GlobalIndex" : 371, 
+          "ZeroBasedGlobalIndex" : 370, 
+          "X" : 545.690010067092, 
+          "Y" : 482.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 5, 
+          "ZeroBasedIndex" : 4, 
+          "GlobalIndex" : 372, 
+          "ZeroBasedGlobalIndex" : 371, 
+          "X" : 576.554557797155, 
+          "Y" : 482.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 6, 
+          "ZeroBasedIndex" : 5, 
+          "GlobalIndex" : 373, 
+          "ZeroBasedGlobalIndex" : 372, 
+          "X" : 607.419105527218, 
+          "Y" : 482.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 7, 
+          "ZeroBasedIndex" : 6, 
+          "GlobalIndex" : 374, 
+          "ZeroBasedGlobalIndex" : 373, 
+          "X" : 638.28365325728, 
+          "Y" : 482.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 8, 
+          "ZeroBasedIndex" : 7, 
+          "GlobalIndex" : 375, 
+          "ZeroBasedGlobalIndex" : 374, 
+          "X" : 669.148200987343, 
+          "Y" : 482.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 9, 
+          "ZeroBasedIndex" : 8, 
+          "GlobalIndex" : 376, 
+          "ZeroBasedGlobalIndex" : 375, 
+          "X" : 700.012748717406, 
+          "Y" : 482.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 10, 
+          "ZeroBasedIndex" : 9, 
+          "GlobalIndex" : 377, 
+          "ZeroBasedGlobalIndex" : 376, 
+          "X" : 730.877296447469, 
+          "Y" : 482.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 11, 
+          "ZeroBasedIndex" : 10, 
+          "GlobalIndex" : 378, 
+          "ZeroBasedGlobalIndex" : 377, 
+          "X" : 746.3095703125, 
+          "Y" : 457.780929570565, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 12, 
+          "ZeroBasedIndex" : 11, 
+          "GlobalIndex" : 379, 
+          "ZeroBasedGlobalIndex" : 378, 
+          "X" : 746.3095703125, 
+          "Y" : 426.916381840502, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 13, 
+          "ZeroBasedIndex" : 12, 
+          "GlobalIndex" : 380, 
+          "ZeroBasedGlobalIndex" : 379, 
+          "X" : 742.361404422939, 
+          "Y" : 400.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 14, 
+          "ZeroBasedIndex" : 13, 
+          "GlobalIndex" : 381, 
+          "ZeroBasedGlobalIndex" : 380, 
+          "X" : 711.496856692877, 
+          "Y" : 400.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 15, 
+          "ZeroBasedIndex" : 14, 
+          "GlobalIndex" : 382, 
+          "ZeroBasedGlobalIndex" : 381, 
+          "X" : 680.632308962814, 
+          "Y" : 400.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 16, 
+          "ZeroBasedIndex" : 15, 
+          "GlobalIndex" : 383, 
+          "ZeroBasedGlobalIndex" : 382, 
+          "X" : 649.767761232751, 
+          "Y" : 400.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 17, 
+          "ZeroBasedIndex" : 16, 
+          "GlobalIndex" : 384, 
+          "ZeroBasedGlobalIndex" : 383, 
+          "X" : 618.903213502688, 
+          "Y" : 400.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 18, 
+          "ZeroBasedIndex" : 17, 
+          "GlobalIndex" : 385, 
+          "ZeroBasedGlobalIndex" : 384, 
+          "X" : 588.038665772626, 
+          "Y" : 400.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 19, 
+          "ZeroBasedIndex" : 18, 
+          "GlobalIndex" : 386, 
+          "ZeroBasedGlobalIndex" : 385, 
+          "X" : 557.174118042563, 
+          "Y" : 400.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }
+      ]
+    }, 
+    {
+      "Index" : 18, 
+      "ZeroBasedIndex" : 17, 
+      "Points" : [
+        {
+          "Index" : 1, 
+          "ZeroBasedIndex" : 0, 
+          "GlobalIndex" : 387, 
+          "ZeroBasedGlobalIndex" : 386, 
+          "X" : 296.309600830078, 
+          "Y" : 400.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 2, 
+          "ZeroBasedIndex" : 1, 
+          "GlobalIndex" : 388, 
+          "ZeroBasedGlobalIndex" : 387, 
+          "X" : 296.309600830078, 
+          "Y" : 430.864544988129, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 3, 
+          "ZeroBasedIndex" : 2, 
+          "GlobalIndex" : 389, 
+          "ZeroBasedGlobalIndex" : 388, 
+          "X" : 296.309600830078, 
+          "Y" : 461.729089976257, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 4, 
+          "ZeroBasedIndex" : 3, 
+          "GlobalIndex" : 390, 
+          "ZeroBasedGlobalIndex" : 389, 
+          "X" : 315.690032358867, 
+          "Y" : 482.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 5, 
+          "ZeroBasedIndex" : 4, 
+          "GlobalIndex" : 391, 
+          "ZeroBasedGlobalIndex" : 390, 
+          "X" : 346.554577346995, 
+          "Y" : 482.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 6, 
+          "ZeroBasedIndex" : 5, 
+          "GlobalIndex" : 392, 
+          "ZeroBasedGlobalIndex" : 391, 
+          "X" : 377.419122335124, 
+          "Y" : 482.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 7, 
+          "ZeroBasedIndex" : 6, 
+          "GlobalIndex" : 393, 
+          "ZeroBasedGlobalIndex" : 392, 
+          "X" : 408.283667323252, 
+          "Y" : 482.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 8, 
+          "ZeroBasedIndex" : 7, 
+          "GlobalIndex" : 394, 
+          "ZeroBasedGlobalIndex" : 393, 
+          "X" : 439.148212311381, 
+          "Y" : 482.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 9, 
+          "ZeroBasedIndex" : 8, 
+          "GlobalIndex" : 395, 
+          "ZeroBasedGlobalIndex" : 394, 
+          "X" : 470.012757299509, 
+          "Y" : 482.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 10, 
+          "ZeroBasedIndex" : 9, 
+          "GlobalIndex" : 396, 
+          "ZeroBasedGlobalIndex" : 395, 
+          "X" : 500.877302287637, 
+          "Y" : 482.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 11, 
+          "ZeroBasedIndex" : 10, 
+          "GlobalIndex" : 397, 
+          "ZeroBasedGlobalIndex" : 396, 
+          "X" : 516.3095703125, 
+          "Y" : 457.780935410734, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 12, 
+          "ZeroBasedIndex" : 11, 
+          "GlobalIndex" : 398, 
+          "ZeroBasedGlobalIndex" : 397, 
+          "X" : 516.3095703125, 
+          "Y" : 426.916390422605, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 13, 
+          "ZeroBasedIndex" : 12, 
+          "GlobalIndex" : 399, 
+          "ZeroBasedGlobalIndex" : 398, 
+          "X" : 512.361415746977, 
+          "Y" : 400.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 14, 
+          "ZeroBasedIndex" : 13, 
+          "GlobalIndex" : 400, 
+          "ZeroBasedGlobalIndex" : 399, 
+          "X" : 481.496870758849, 
+          "Y" : 400.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 15, 
+          "ZeroBasedIndex" : 14, 
+          "GlobalIndex" : 401, 
+          "ZeroBasedGlobalIndex" : 400, 
+          "X" : 450.63232577072, 
+          "Y" : 400.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 16, 
+          "ZeroBasedIndex" : 15, 
+          "GlobalIndex" : 402, 
+          "ZeroBasedGlobalIndex" : 401, 
+          "X" : 419.767780782592, 
+          "Y" : 400.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 17, 
+          "ZeroBasedIndex" : 16, 
+          "GlobalIndex" : 403, 
+          "ZeroBasedGlobalIndex" : 402, 
+          "X" : 388.903235794463, 
+          "Y" : 400.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 18, 
+          "ZeroBasedIndex" : 17, 
+          "GlobalIndex" : 404, 
+          "ZeroBasedGlobalIndex" : 403, 
+          "X" : 358.038690806335, 
+          "Y" : 400.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 19, 
+          "ZeroBasedIndex" : 18, 
+          "GlobalIndex" : 405, 
+          "ZeroBasedGlobalIndex" : 404, 
+          "X" : 327.174145818207, 
+          "Y" : 400.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }
+      ]
+    }, 
+    {
+      "Index" : 19, 
+      "ZeroBasedIndex" : 18, 
+      "Points" : [
+        {
+          "Index" : 1, 
+          "ZeroBasedIndex" : 0, 
+          "GlobalIndex" : 406, 
+          "ZeroBasedGlobalIndex" : 405, 
+          "X" : 296.309600830078, 
+          "Y" : 492.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 2, 
+          "ZeroBasedIndex" : 1, 
+          "GlobalIndex" : 407, 
+          "ZeroBasedGlobalIndex" : 406, 
+          "X" : 296.309600830078, 
+          "Y" : 522.864544988129, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 3, 
+          "ZeroBasedIndex" : 2, 
+          "GlobalIndex" : 408, 
+          "ZeroBasedGlobalIndex" : 407, 
+          "X" : 296.309600830078, 
+          "Y" : 553.729089976257, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 4, 
+          "ZeroBasedIndex" : 3, 
+          "GlobalIndex" : 409, 
+          "ZeroBasedGlobalIndex" : 408, 
+          "X" : 315.690032358867, 
+          "Y" : 574.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 5, 
+          "ZeroBasedIndex" : 4, 
+          "GlobalIndex" : 410, 
+          "ZeroBasedGlobalIndex" : 409, 
+          "X" : 346.554577346995, 
+          "Y" : 574.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 6, 
+          "ZeroBasedIndex" : 5, 
+          "GlobalIndex" : 411, 
+          "ZeroBasedGlobalIndex" : 410, 
+          "X" : 377.419122335124, 
+          "Y" : 574.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 7, 
+          "ZeroBasedIndex" : 6, 
+          "GlobalIndex" : 412, 
+          "ZeroBasedGlobalIndex" : 411, 
+          "X" : 408.283667323252, 
+          "Y" : 574.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 8, 
+          "ZeroBasedIndex" : 7, 
+          "GlobalIndex" : 413, 
+          "ZeroBasedGlobalIndex" : 412, 
+          "X" : 439.148212311381, 
+          "Y" : 574.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 9, 
+          "ZeroBasedIndex" : 8, 
+          "GlobalIndex" : 414, 
+          "ZeroBasedGlobalIndex" : 413, 
+          "X" : 470.012757299509, 
+          "Y" : 574.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 10, 
+          "ZeroBasedIndex" : 9, 
+          "GlobalIndex" : 415, 
+          "ZeroBasedGlobalIndex" : 414, 
+          "X" : 500.877302287637, 
+          "Y" : 574.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 11, 
+          "ZeroBasedIndex" : 10, 
+          "GlobalIndex" : 416, 
+          "ZeroBasedGlobalIndex" : 415, 
+          "X" : 516.3095703125, 
+          "Y" : 549.780935410733, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 12, 
+          "ZeroBasedIndex" : 11, 
+          "GlobalIndex" : 417, 
+          "ZeroBasedGlobalIndex" : 416, 
+          "X" : 516.3095703125, 
+          "Y" : 518.916390422605, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 13, 
+          "ZeroBasedIndex" : 12, 
+          "GlobalIndex" : 418, 
+          "ZeroBasedGlobalIndex" : 417, 
+          "X" : 512.361415746977, 
+          "Y" : 492.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 14, 
+          "ZeroBasedIndex" : 13, 
+          "GlobalIndex" : 419, 
+          "ZeroBasedGlobalIndex" : 418, 
+          "X" : 481.496870758849, 
+          "Y" : 492.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 15, 
+          "ZeroBasedIndex" : 14, 
+          "GlobalIndex" : 420, 
+          "ZeroBasedGlobalIndex" : 419, 
+          "X" : 450.63232577072, 
+          "Y" : 492.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 16, 
+          "ZeroBasedIndex" : 15, 
+          "GlobalIndex" : 421, 
+          "ZeroBasedGlobalIndex" : 420, 
+          "X" : 419.767780782592, 
+          "Y" : 492.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 17, 
+          "ZeroBasedIndex" : 16, 
+          "GlobalIndex" : 422, 
+          "ZeroBasedGlobalIndex" : 421, 
+          "X" : 388.903235794463, 
+          "Y" : 492.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 18, 
+          "ZeroBasedIndex" : 17, 
+          "GlobalIndex" : 423, 
+          "ZeroBasedGlobalIndex" : 422, 
+          "X" : 358.038690806335, 
+          "Y" : 492.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }, 
+        {
+          "Index" : 19, 
+          "ZeroBasedIndex" : 18, 
+          "GlobalIndex" : 424, 
+          "ZeroBasedGlobalIndex" : 423, 
+          "X" : 327.174145818207, 
+          "Y" : 492.0, 
+          "UseCircuitAndFinishCutPoint" : false
+        }
+      ]
+    }
+  ]
+}
